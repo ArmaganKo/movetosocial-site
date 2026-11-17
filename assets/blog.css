@@ -29,6 +29,12 @@ header{position:sticky;top:0;z-index:50;background:rgba(3,10,7,.82);backdrop-fil
 .nav ul a{display:block;padding:8px 16px;border-radius:999px;font-size:14.5px;font-weight:500;color:var(--mute);transition:color .25s,background .25s}
 .nav ul a:hover,.nav ul a.on{color:#fff;background:rgba(255,255,255,.07)}
 .nav .btn{padding:10px 20px;font-size:14.5px}
+.nav .act{display:flex;align-items:center;gap:10px}
+.nav .ig{display:grid;place-items:center;width:42px;height:42px;border-radius:50%;border:1px solid rgba(255,255,255,.16);background:rgba(255,255,255,.04);color:#fff;transition:border-color .25s,background .25s,transform .25s}
+.nav .ig:hover{border-color:rgba(53,212,142,.6);background:rgba(53,212,142,.12);transform:translateY(-2px)}
+.nav .ig svg{width:19px;height:19px}
+.bot .igl{display:inline-flex;align-items:center;gap:7px}
+.bot .igl svg{width:16px;height:16px}
 .menu-btn{display:none;background:none;border:0;color:#fff;cursor:pointer;padding:10px}
 .menu-btn svg{width:26px;height:26px}
 
