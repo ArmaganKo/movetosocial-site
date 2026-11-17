@@ -1,0 +1,17 @@
+{
+  "slug": "sosyal-medya-ajansi-secerken-10-soru-2026",
+  "slaytlar": [
+    {"tip": "kapak", "etiket": "Rehber", "beyaz": "Ajans seçmeden", "yesil": "önce 10 soru", "alt": "Sözleşmeyi imzalamadan önce bunları sorun."},
+    {"tip": "liste", "baslik": "Strateji ve içerik", "maddeler": ["Markamı nasıl analiz edeceksiniz?", "Hangi platformlar ve neden?", "İçeriği kim üretiyor?", "Ayda kaç içerik, hangi formatta?", "Paylaşımlar önce onayıma gelecek mi?"]},
+    {"tip": "liste", "baslik": "Rapor, bütçe ve sözleşme", "maddeler": ["Hangi rakamlarla raporlayacaksınız?", "Reklam bütçesi nasıl yönetilecek?", "Hesapların sahibi kim olacak?", "Mesajlara kim, ne sürede dönüyor?", "Sözleşme ve çıkış şartları neler?"]},
+    {"tip": "madde", "no": "08", "baslik": "Hesaplar sizin adınıza olmalı", "metin": "Ajansa yalnızca yetki verin. Ayrılırsanız hiçbir şeyi kaybetmemelisiniz."},
+    {"tip": "liste", "baslik": "Bu ajanslardan uzak durun", "maddeler": ["Takipçi garantisi verenler", "Örnek rapor gösteremeyenler", "Ana şifrenizi isteyenler", "Herkese aynı paketi satanlar"]},
+    {"tip": "rakam", "rakam": "60,2 M", "baslik": "Instagram'ın Türkiye'deki erişimi", "metin": "Müşterileriniz orada. Doğru ajansı seçmek bu yüzden önemli.", "kaynak": "DataReportal, Ekim 2026"},
+    {"tip": "cta", "baslik": "10 sorunun cevapları blogumuzda", "metin": "Her sorunun neden önemli olduğunu anlattık:"}
+  ],
+  "instagram": {
+    "aciklama": "Sosyal medya ajansıyla anlaşmadan önce bu 10 soruyu sorun. ✅\n\nGüzel bir portföy ve uygun fiyat yetmez. Raporlama, reklam bütçesi ve hesapların kimin adına olacağı baştan netleşmeli.\n\nKaydırın, listeyi görün. Her sorunun neden önemli olduğunu blogumuzda anlattık: movetosocial.com.tr/blog\n\nKaydedin, ajans görüşmesine giderken lazım olacak.",
+    "hashtag": ["#sosyalmedyaajansı", "#sosyalmedyayönetimi", "#dijitalpazarlama", "#girişimcilik", "#movetosocial"]
+  },
+  "linkedin": "Sosyal medya ajansı seçerken çoğu işletme portföye ve fiyata bakıyor. Asıl farkı ise görüşmede sorulan sorular belirliyor.\n\nSözleşmeden önce mutlaka netleştirmeniz gereken 5 konu:\n\n• Strateji: Markanızı nasıl analiz edecekler, hangi platformları neden öneriyorlar?\n• İçerik: Çekim, tasarım ve metni kim üretiyor; ayda kaç içerik, hangi formatta?\n• Raporlama: Takipçi sayısı değil; erişim, mesaj ve web sitesi tıklaması gibi işe dönük ölçütler.\n• Bütçe: Reklam bütçesi ile ajans ücreti ayrı mı, harcama kimin hesabından yapılıyor?\n• Sahiplik: Hesaplar ve reklam hesabı sizin adınıza olmalı; ajansa yalnızca yetki verilmeli.\n\nTakipçi garantisi veren, örnek rapor gösteremeyen ya da ana şifrenizi isteyen ajanslara karşı dikkatli olun.\n\n10 sorunun tamamı ve kontrol listesi:\n{link}\n\n#sosyalmedya #dijitalpazarlama #kobi"
+}

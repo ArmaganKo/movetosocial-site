@@ -40,6 +40,18 @@ Yazılar onay beklemeden yayına girer; o yüzden kurallar eksiksiz uygulanmalı
 - Tüm kaynaklar `kaynaklar` listesinde linkli olmalı; metin içinde de ilgili yerde link verilebilir.
 - Fiyat yazılarında kesin fiyat uydurma; aralık ya da belirleyen faktörleri anlat, varsa resmi kaynaktan doğrula.
 
+## Sosyal medya seti (her yazı için zorunlu)
+Blog yazısıyla birlikte aynı konudan bir Instagram carousel'i ve bir LinkedIn paylaşımı hazırlanır.
+1. `_sosyal/<slug>/set.json` yaz (mevcut setleri örnek al). Slayt tipleri: `kapak`, `rakam`, `madde`, `liste`, `cta`.
+   - 6-8 slayt: ilk slayt `kapak`, son slayt `cta`. Arada yazının en çarpıcı rakamları ve ana fikirleri.
+   - Slaytlarda yalnızca yazıda geçen, kaynağı doğrulanmış rakamlar; `rakam` slaytında `kaynak` zorunlu.
+   - Kısa yaz: başlık 1-2 satır, liste en fazla 6 madde, madde başına tek satır. Betik "sığmıyor" uyarısı verirse metni kısalt.
+   - Instagram açıklaması: kanca cümle, 2-3 kısa paragraf, "Kaydırın", blog adresi (movetosocial.com.tr/blog), "Kaydedin, ... lazım olacak" kapanışı; `hashtag` listesinde **tam 5** hashtag, biri #movetosocial.
+   - LinkedIn metni: profesyonel ton, kanca + 3-5 madde + çıkarım + `{link}` (betik yazının adresiyle değiştirir) + 3 hashtag.
+2. `python3 _tools/sosyal.py <slug>` çalıştır. Çıktılar: `instagram-carousel-01..NN.png` (1080x1350), `linkedin-carousel.pdf` (LinkedIn belge gönderisi), `instagram-aciklama.txt`, `linkedin-metin.txt`.
+3. Slaytları tek tek aç ve bak: taşan, kesilen ya da üst üste binen yazı olmamalı.
+4. Tüm dosyaları kullanıcıya tek tek gönder (ZIP değil). Her gönderide hangi platform için olduğunu yaz: "Instagram carousel", "LinkedIn belge gönderisi (PDF)", "Blog kapağı".
+
 ## İç link kuralları
 - Gövdede en az 2 iç link: ilgili blog yazılarına (`/blog/<slug>/`) ve ilgili hizmete (`/#hizmetler`, `/#egitimler`, `/#sektorler`).
 - `ilgili` alanına en alakalı 2-3 yazının slug'ını yaz (yoksa betik etiket ve kategoriye göre seçer).

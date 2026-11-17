@@ -1,0 +1,17 @@
+{
+  "slug": "turkiye-sosyal-medya-istatistikleri-2026",
+  "slaytlar": [
+    {"tip": "kapak", "etiket": "Veri", "beyaz": "Türkiye'de", "yesil": "61 milyon kişi", "alt": "sosyal medyada. Peki hangi platformda?"},
+    {"tip": "rakam", "rakam": "61,0 M", "baslik": "sosyal medya kullanıcı kimliği", "metin": "Nüfusun %69,3'ü. İnternet kullanıcısı sayısı ise 79,5 milyon.", "kaynak": "DataReportal, Ekim 2026"},
+    {"tip": "liste", "baslik": "Platformların Türkiye'deki erişimi", "maddeler": ["YouTube: 61,0 milyon", "Instagram: 60,2 milyon", "TikTok (18+): 51,5 milyon", "Facebook: 33,2 milyon", "LinkedIn: 25,0 milyon üye", "X: 16,6 milyon"]},
+    {"tip": "rakam", "rakam": "+6,6 M", "baslik": "En hızlı büyüyen: TikTok", "metin": "18 yaş üstü erişimi bir yılda 44,9 milyondan 51,5 milyona çıktı.", "kaynak": "DataReportal, Ekim 2025 ve Ekim 2026"},
+    {"tip": "rakam", "rakam": "25 sa 4 dk", "baslik": "Haftalık sosyal medya süresi", "metin": "Türkiye'de. Dünya ortalaması 18 saat 36 dakika.", "kaynak": "Digital 2026 Türkiye raporu"},
+    {"tip": "liste", "baslik": "Markanız için 3 çıkarım", "maddeler": ["Instagram ve YouTube'u birlikte düşünün", "TikTok'u ertelemeyin, test edin", "Şirketlere satıyorsanız LinkedIn'de olun"]},
+    {"tip": "cta", "baslik": "Yazının tamamı blogumuzda", "metin": "Tüm rakamlar, grafikler ve kaynaklar:"}
+  ],
+  "instagram": {
+    "aciklama": "Türkiye'de 61 milyon kişi sosyal medyada. Ama hepsi aynı yerde değil. 📊\n\nYouTube 61,0 milyon, Instagram 60,2 milyon kişiye ulaşıyor. Bir yılda en çok büyüyen platform ise TikTok oldu: +6,6 milyon.\n\nKaydırın, markanız için çıkarımları görün. Grafikler ve kaynaklarıyla yazının tamamı blogumuzda: movetosocial.com.tr/blog\n\nKaydedin, içerik planı yaparken lazım olacak.",
+    "hashtag": ["#sosyalmedya", "#dijitalpazarlama", "#instagramtürkiye", "#sosyalmedyaajansı", "#movetosocial"]
+  },
+  "linkedin": "Türkiye'de 61 milyon sosyal medya kullanıcı kimliği var. Ama markalar için asıl soru şu: Kitleniz hangi platformda?\n\nDataReportal'ın 5 Kasım 2026'da yayımlanan Türkiye raporundan öne çıkanlar:\n\n• YouTube 61,0 milyon, Instagram 60,2 milyon kişiye ulaşıyor; ikisi neredeyse başa baş.\n• TikTok'un 18 yaş üstü erişimi bir yılda 44,9 milyondan 51,5 milyona çıktı.\n• LinkedIn'in Türkiye'deki üye sayısı 21 milyondan 25 milyona yükseldi.\n• Türkiye'de haftada 25 saat 4 dakika sosyal medyada geçiriliyor; dünya ortalaması 18 saat 36 dakika.\n\nŞirketlere hizmet satıyorsanız 25 milyonluk LinkedIn kitlesi, karar vericilere ulaşmanın en kısa yolu.\n\nPlatform platform grafikler ve kaynaklar için yazının tamamı:\n{link}\n\n#sosyalmedya #dijitalpazarlama #linkedin"
+}
