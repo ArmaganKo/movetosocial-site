@@ -87,7 +87,10 @@ def bas(baslik, aciklama, yol, gorsel=None, gorsel_alt="", jsonld=None, tur="web
 <meta name="description" content="{e(aciklama)}">
 <link rel="canonical" href="{SITE}{yol}">
 <meta name="theme-color" content="#030A07">
-<link rel="icon" type="image/svg+xml" href="/assets/ikon-yesil.svg">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
 <meta property="og:type" content="{tur}">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:site_name" content="Move to Social">
