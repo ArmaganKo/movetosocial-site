@@ -118,7 +118,7 @@ def bas(baslik, aciklama, yol, gorsel=None, gorsel_alt="", jsonld=None, tur="web
 
 
 def son(c, ekstra_js="", mesaj=None):
-    mesaj = mesaj or "Merhaba, blogunuzdan yazıyorum.\nİşletmem: \nİlgilendiğim hizmet: "
+    mesaj = mesaj or "Merhaba, Move to Social'dan teklif almak istiyorum."
     wa = "https://wa.me/" + c["whatsapp"] + "?text=" + urllib.parse.quote(mesaj)
     return f"""</main>
 <footer>
@@ -228,7 +228,7 @@ def yazi_sayfasi(m, hepsi, c):
 </article>
 {ilgili_html}
 """
-    sayfa += son(c, mesaj=f'Merhaba, blogunuzdaki "{m["baslik"]}" yazısını okudum.\nİşletmem: ')
+    sayfa += son(c)
     hedef = KOK / "blog" / m["slug"] / "index.html"
     hedef.parent.mkdir(parents=True, exist_ok=True)
     hedef.write_text(sayfa)
