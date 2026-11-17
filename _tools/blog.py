@@ -12,7 +12,7 @@ Kaynaklar:  _kaynak/<slug>.json  (bilgiler)  +  _kaynak/<slug>.html  (yazı göv
 Kullanım:  python3 _tools/blog.py            (CHROME=/yol/chrome isteğe bağlı)
 Kurallar:  _tools/BLOG-KURALLARI.md
 """
-import json, re, html, pathlib, subprocess, sys, datetime
+import json, re, html, pathlib, subprocess, sys, datetime, urllib.parse
 
 KOK = pathlib.Path(__file__).resolve().parent.parent
 KAYNAK = KOK / "_kaynak"
@@ -117,8 +117,9 @@ def bas(baslik, aciklama, yol, gorsel=None, gorsel_alt="", jsonld=None, tur="web
 """
 
 
-def son(c, ekstra_js=""):
-    wa = "https://wa.me/" + c["whatsapp"] + "?text=" + e(c["waMesaj"].replace(" ", "%20"))
+def son(c, ekstra_js="", mesaj=None):
+    mesaj = mesaj or "Merhaba, blogunuzdan yazıyorum.\nİşletmem: \nİlgilendiğim hizmet: "
+    wa = "https://wa.me/" + c["whatsapp"] + "?text=" + urllib.parse.quote(mesaj)
     return f"""</main>
 <footer>
   <div class="wrap bot">
@@ -227,7 +228,7 @@ def yazi_sayfasi(m, hepsi, c):
 </article>
 {ilgili_html}
 """
-    sayfa += son(c)
+    sayfa += son(c, mesaj=f'Merhaba, blogunuzdaki "{m["baslik"]}" yazısını okudum.\nİşletmem: ')
     hedef = KOK / "blog" / m["slug"] / "index.html"
     hedef.parent.mkdir(parents=True, exist_ok=True)
     hedef.write_text(sayfa)
