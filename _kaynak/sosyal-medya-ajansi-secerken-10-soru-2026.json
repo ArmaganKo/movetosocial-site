@@ -1,0 +1,25 @@
+{
+  "slug": "sosyal-medya-ajansi-secerken-10-soru-2026",
+  "baslik": "Sosyal Medya Ajansı Seçerken Sorulacak 10 Soru 2026",
+  "aciklama": "Sosyal medya ajansı seçerken sözleşmeden önce sormanız gereken 10 soru: strateji, içerik, raporlama, reklam bütçesi, hesap sahipliği ve dikkat edilecek uyarılar.",
+  "ozet": "Doğru sosyal medya ajansını seçmek için portföye bakmak yetmez. Görüşmede strateji nasıl kurulacak, içeriği kim üretecek, hangi rakamlarla raporlanacak, reklam bütçesi nasıl yönetilecek ve hesapların sahibi kim olacak gibi 10 soruyu net cevaplarla kapatın. Takipçi garantisi veren, rapor göstermeyen ya da hesap şifrelerini kendinde tutmak isteyen ajanslara karşı dikkatli olun.",
+  "kart": "Sözleşme imzalamadan önce masaya koymanız gereken 10 soru ve uzak durmanız gereken işaretler.",
+  "kategori": "Rehber",
+  "etiketler": ["sosyal medya ajansı", "ajans seçimi", "sosyal medya yönetimi", "reklam yönetimi", "dijital pazarlama"],
+  "tarih": "2026-11-17",
+  "kapak": {"beyaz": "Sosyal Medya Ajansı", "yesil": "Seçerken 10 Soru"},
+  "alt": [
+    "Sosyal medya ajansı seçerken sorulacak 10 soru blog kapağı, Move to Social logolu",
+    "Sosyal medya ajansı seçimi rehberi 2026, sözleşme öncesi kontrol listesi kapak görseli"
+  ],
+  "ilgili": ["turkiye-sosyal-medya-istatistikleri-2026", "restoranlar-icin-instagram-7-fikir-2026"],
+  "sss": [
+    {"s": "Sosyal medya ajansı ücretleri neye göre değişir?", "c": "Ücret; yönetilecek hesap sayısına, aylık içerik ve video adedine, çekim gerekip gerekmediğine ve reklam yönetiminin dahil olup olmadığına göre değişir. Reklam bütçesi genellikle ajans ücretinden ayrı tutulur."},
+    {"s": "Ajansla çalışmaya başlayınca hesap şifrelerimi vermem gerekir mi?", "c": "Gerekmez. Meta Business Suite gibi araçlarla ajansa yetki verip hesap sahipliğini kendinizde tutabilirsiniz. Ayrılık durumunda yetkiyi tek tıkla geri alırsınız."},
+    {"s": "Sonuçları ne zaman görmeyi beklemeliyim?", "c": "Düzenli içerik ve reklamla ilk etkileşim artışı genellikle ilk ay içinde görülür; marka bilinirliği ve müşteri kazanımı ise birkaç aylık tutarlı çalışma ister. Somut hedefleri baştan konuşmak beklentiyi netleştirir."}
+  ],
+  "kaynaklar": [
+    {"ad": "DataReportal — Digital 2027: Turkey (5 Kasım 2026)", "url": "https://datareportal.com/reports/digital-2027-turkey"},
+    {"ad": "DataReportal — Digital 2026: Turkey", "url": "https://datareportal.com/reports/digital-2026-turkey"}
+  ]
+}

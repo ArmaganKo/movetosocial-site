@@ -130,6 +130,20 @@ section{padding:120px 0 0}
 .step::before{content:"0" counter(s);display:grid;place-items:center;width:42px;height:42px;border-radius:50%;font-weight:600;font-size:14px;color:var(--mint);border:1px solid rgba(53,212,142,.4);background:rgba(53,212,142,.1);box-shadow:0 0 22px rgba(53,212,142,.25)}
 .step h3{font-size:19px;margin-top:20px}.step p{margin-top:8px;color:var(--mute);font-size:15px}
 
+/* BLOG KARTLARI */
+.bgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.bcard{display:flex;flex-direction:column;border-radius:20px;border:1px solid var(--line);background:linear-gradient(180deg,rgba(255,255,255,.055),rgba(255,255,255,.015));overflow:hidden;transition:border-color .35s,transform .35s var(--ease)}
+.bcard:hover{border-color:rgba(53,212,142,.45);transform:translateY(-4px)}
+.bcard img{display:block;width:100%;height:auto;aspect-ratio:1200/630;object-fit:cover;border-bottom:1px solid var(--line)}
+.bcard .bc{padding:20px 22px 24px;display:flex;flex-direction:column;gap:10px;flex:1}
+.bcard .meta{font-size:13px;color:var(--mute);display:flex;gap:10px;flex-wrap:wrap}
+.bcard .meta span:first-child{color:var(--mint);font-weight:600}
+.bcard h3{font-size:19px;letter-spacing:-.02em;line-height:1.25}
+.bcard p{color:var(--mute);font-size:15px}
+.bmore{text-align:center;margin-top:36px}
+@media (max-width:980px){.bgrid{grid-template-columns:1fr 1fr}}
+@media (max-width:620px){.bgrid{grid-template-columns:1fr}}
+
 /* FAQ */
 .faq{max-width:760px;margin:0 auto;display:grid;gap:10px}
 details{border-radius:16px;border:1px solid var(--line);background:var(--glass);transition:border-color .3s,background .3s}
@@ -199,10 +213,10 @@ footer{padding:0 0 34px;position:relative}
      ============================================================ -->
 <script>
   window.MTS = {
-    whatsapp: "905000000000",            // Başında 90, boşluksuz (ör. 905xxxxxxxxx)
-    telefonGorunen: "0500 000 00 00",    // Sitede görünecek hali
+    whatsapp: "905432954766",            // Başında 90, boşluksuz (ör. 905xxxxxxxxx)
+    telefonGorunen: "0543 295 47 66",    // Sitede görünecek hali
     eposta: "info@movetosocial.com.tr",
-    instagram: "movetosocial",           // @ olmadan kullanıcı adı
+    instagram: "movetosocialtr",           // @ olmadan kullanıcı adı
     waMesaj: "Merhaba, Move to Social'dan teklif almak istiyorum."
   };
 </script>
@@ -260,6 +274,7 @@ footer{padding:0 0 34px;position:relative}
       <li><a href="#sektorler">Sektörler</a></li>
       <li><a href="#egitimler">Eğitimler</a></li>
       <li><a href="#surec">Süreç</a></li>
+      <li><a href="/blog/">Blog</a></li>
       <li><a href="#sss">SSS</a></li>
     </ul>
     <a class="btn b-main js-wa" href="#iletisim">Teklif Alın</a>
@@ -362,6 +377,20 @@ footer{padding:0 0 34px;position:relative}
   </div>
 </section>
 
+<!--BLOG-START-->
+<section id="blog">
+  <div class="wrap">
+    <div class="head" data-r>
+      <span class="badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h12l4 4v12H4Z"/><path d="M8 10h8M8 14h8M8 18h5"/></svg>Blog</span>
+      <h2><span class="soft">Sosyal medyada</span><span class="hl">güncel kalın</span></h2>
+      <p>Kaynaklı istatistikler, uygulanabilir rehberler ve sektöre özel fikirler.</p>
+    </div>
+    <div class="bgrid" data-r><a class="bcard" href="/blog/restoranlar-icin-instagram-7-fikir-2026/" data-k="Sektör"><img src="/blog/restoranlar-icin-instagram-7-fikir-2026/kapak.png" alt="Restoranlar için Instagram fikirleri 2026 blog kapağı, Move to Social logolu yeşil tasarım" width="1200" height="630" loading="lazy"><div class="bc"><div class="meta"><span>Sektör</span><span>17 Kasım 2026</span><span>3 dk okuma</span></div><h3>Restoranlar İçin Instagram: Masaları Dolduran 7 Fikir 2026</h3><p>Reels&#x27;ten konum hedefli reklama, restoranınızın Instagram&#x27;ını müşteriye çeviren 7 uygulanabilir fikir.</p></div></a><a class="bcard" href="/blog/sosyal-medya-ajansi-secerken-10-soru-2026/" data-k="Rehber"><img src="/blog/sosyal-medya-ajansi-secerken-10-soru-2026/kapak.png" alt="Sosyal medya ajansı seçerken sorulacak 10 soru blog kapağı, Move to Social logolu" width="1200" height="630" loading="lazy"><div class="bc"><div class="meta"><span>Rehber</span><span>17 Kasım 2026</span><span>3 dk okuma</span></div><h3>Sosyal Medya Ajansı Seçerken Sorulacak 10 Soru 2026</h3><p>Sözleşme imzalamadan önce masaya koymanız gereken 10 soru ve uzak durmanız gereken işaretler.</p></div></a><a class="bcard" href="/blog/turkiye-sosyal-medya-istatistikleri-2026/" data-k="Veri"><img src="/blog/turkiye-sosyal-medya-istatistikleri-2026/kapak.png" alt="Türkiye sosyal medya istatistikleri 2026 blog kapağı, Move to Social logosu ve yeşil başlık" width="1200" height="630" loading="lazy"><div class="bc"><div class="meta"><span>Veri</span><span>17 Kasım 2026</span><span>3 dk okuma</span></div><h3>Türkiye Sosyal Medya İstatistikleri 2026: 61 Milyon Kişi</h3><p>61 milyon kullanıcı, platform platform erişim rakamları ve markalar için çıkarımlar.</p></div></a></div>
+    <div class="bmore" data-r><a class="btn b-ghost" href="/blog/">Tüm yazılar</a></div>
+  </div>
+</section>
+<!--BLOG-END-->
+
 <section id="sss">
   <div class="wrap">
     <div class="head" data-r>
@@ -401,7 +430,7 @@ footer{padding:0 0 34px;position:relative}
     <svg class="logo ghost" aria-hidden="true"><use href="#logo"/></svg>
     <div class="bot">
       <span>© <span id="yil">2026</span> Move to Social. Tüm hakları saklıdır.</span>
-      <nav><a href="#hizmetler">Hizmetler</a><a href="#sektorler">Sektörler</a><a href="#egitimler">Eğitimler</a><a href="#surec">Süreç</a><a href="#sss">SSS</a></nav>
+      <nav><a href="#hizmetler">Hizmetler</a><a href="#sektorler">Sektörler</a><a href="#egitimler">Eğitimler</a><a href="#surec">Süreç</a><a href="/blog/">Blog</a><a href="#sss">SSS</a></nav>
     </div>
   </div>
 </footer>
