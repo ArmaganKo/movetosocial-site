@@ -1,0 +1,18 @@
+{
+  "slug": "e-ticaret-istatistikleri-2026",
+  "slaytlar": [
+    {"tip": "kapak", "etiket": "Veri", "beyaz": "E-ticaret 2026:", "yesil": "4,6 trilyon TL", "alt": "Resmi verilerle Türkiye'nin tablosu"},
+    {"tip": "rakam", "rakam": "4,57 T TL", "baslik": "2025 e-ticaret hacmi", "metin": "Bir yılda %52,2 nominal artış. Dolar bazında yaklaşık 115,4 milyar dolar.", "kaynak": "Ticaret Bakanlığı, Mayıs 2026"},
+    {"tip": "rakam", "rakam": "%19,3", "baslik": "ticaretin e-ticaret payı", "metin": "Türkiye'deki toplam ticaretin beşte birine yakını internette yapılıyor.", "kaynak": "Ticaret Bakanlığı, 2025 verisi"},
+    {"tip": "rakam", "rakam": "%60", "baslik": "internetten sipariş veriyor", "metin": "Son 12 ayda internetten sipariş veren bireyler. 2025'te %55,7'ydi.", "kaynak": "TÜİK, 2026 araştırması"},
+    {"tip": "liste", "baslik": "Hacimde ilk 4 sektör", "maddeler": ["Giyim, ayakkabı: 428,7 milyar TL", "Elektronik: 304,3 milyar TL", "Havayolu: 285,4 milyar TL", "Yemek: 270,2 milyar TL"]},
+    {"tip": "rakam", "rakam": "%71,1", "baslik": "Instagram kullanıyor", "metin": "16-74 yaş arası bireylerde. WhatsApp %90,0, YouTube %77,6.", "kaynak": "TÜİK, 2026 araştırması"},
+    {"tip": "madde", "no": "→", "baslik": "Beğeniyi değil satışı ölçün", "metin": "Site tıklaması, sepete ekleme, mesaj ve siparişe bakın; bütçeyi satış getiren içeriğe kaydırın."},
+    {"tip": "cta", "baslik": "Tüm rakamlar blogumuzda", "metin": "Kaynakları ve önerileriyle:"}
+  ],
+  "instagram": {
+    "aciklama": "Türkiye'de ticaretin neredeyse beşte biri artık internette. 🛒\n\nTicaret Bakanlığı'na göre e-ticaret hacmi 2025'te 4,57 trilyon TL'ye ulaştı. TÜİK'e göre her 10 kişiden 6'sı son bir yılda internetten sipariş verdi, 16-74 yaş arasının %71,1'i Instagram kullanıyor.\n\nKaydırın, e-ticaretin 2026 tablosunu ve sosyal medyada satış yapan markalar için anlamını görün. Kaynaklarıyla yazının tamamı blogumuzda: movetosocial.com.tr/blog\n\nKaydedin, kampanya planı yaparken lazım olacak.",
+    "hashtag": ["#eticaret", "#onlinealışveriş", "#dijitalpazarlama", "#sosyalmedyapazarlaması", "#movetosocial"]
+  },
+  "linkedin": "Türkiye'de e-ticaret, toplam ticaretin %19,3'üne ulaştı.\n\nTicaret Bakanlığı'nın Mayıs 2026'da yayımladığı rapor ve TÜİK'in 2026 araştırması, internetten satış yapan her marka için net bir tablo çiziyor:\n\n• E-ticaret hacmi 2025'te 4,57 trilyon TL oldu; dolar bazında artış %28,9 (Ticaret Bakanlığı).\n• E-ticaret yapan işletme sayısı 634.611'e çıktı (Ticaret Bakanlığı).\n• Hacimde giyim 428,7 milyar TL ile ilk sırada; onu elektronik, havayolu ve yemek izliyor (Ticaret Bakanlığı).\n• Bireylerin %60'ı son 12 ayda internetten sipariş verdi; on yıl önce bu oran %20,9'du (TÜİK).\n• 16-74 yaş arasının %71,1'i Instagram, %90'ı WhatsApp kullanıyor (TÜİK).\n\nÇıkarım: Müşteri internetten almaya hazır, rekabet ise kalabalık. Fark, güveni görünür kılan içerikte ve beğeni yerine satışı ölçen reklam yönetiminde.\n\nRakamların tamamı ve kaynaklar:\n{link}\n\n#eticaret #dijitalpazarlama #veri"
+}
