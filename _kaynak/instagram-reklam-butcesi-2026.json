@@ -1,0 +1,30 @@
+{
+  "slug": "instagram-reklam-butcesi-2026",
+  "baslik": "Instagram Reklam Bütçesi 2026: 5 Adımda Aylık Plan",
+  "aciklama": "Instagram reklam bütçesi nasıl belirlenir? Hedef, kâr marjı ve testle aylık bütçeyi 5 adımda hesaplayın. Türkiye'de dijitalin reklamdaki %74 payı ve sık hatalar.",
+  "ozet": "Instagram reklam bütçesi sabit bir rakam değil, hesapla bulunur: Tek bir hedef seçin, bir satış ya da mesaj için harcayabileceğiniz en yüksek tutarı kâr marjınıza göre belirleyin, bunu aylık hedef sonuç sayısıyla çarpın, 2-4 hafta test edin ve çalışan reklamı yavaşça büyütün. Türkiye'de 2024'te medya yatırımının %74,2'si dijitale, dijitalin %47'si sosyal medyaya gitti; rekabet arttıkça plansız harcama pahalıya geliyor.",
+  "kart": "Aylık Instagram reklam bütçenizi hedef, kâr marjı ve test sonuçlarıyla 5 adımda hesaplayın; Türkiye'deki reklam verileri ve sık hatalar.",
+  "kategori": "Rehber",
+  "etiketler": ["Instagram reklam bütçesi", "Instagram reklamı", "Meta reklam", "reklam bütçesi", "dijital reklam", "sosyal medya reklamı"],
+  "tarih": "2026-11-23",
+  "kapak": {"beyaz": "Instagram Reklam", "yesil": "Bütçesi: 5 Adım"},
+  "alt": [
+    "Instagram reklam bütçesi 2026 blog kapağı, aylık bütçeyi 5 adımda hesaplama rehberi, Move to Social logolu",
+    "Instagram ve Meta reklam bütçesi planlama rehberi 2026, Türkiye dijital reklam verileri kapak görseli"
+  ],
+  "ilgili": ["sosyal-medya-ajansi-secerken-10-soru-2026", "turkiye-sosyal-medya-istatistikleri-2026", "e-ticaret-istatistikleri-2026"],
+  "cta": {
+    "baslik": "Reklam bütçenizi birlikte planlayalım",
+    "metin": "Hedefinize göre bütçe hesabından içerik ve reklam yönetimine kadar neler yapabileceğimizi WhatsApp'tan konuşalım."
+  },
+  "sss": [
+    {"s": "Instagram reklamına ayda ne kadar ayırmalıyım?", "c": "Herkese uyan tek bir tutar yok. Bir satış ya da mesaj için harcayabileceğiniz en yüksek tutarı kâr marjınıza göre belirleyin ve aylık hedef sonuç sayısıyla çarpın. Bu ilk tahmini 2-4 haftalık testle doğrulayın."},
+    {"s": "Ajans ücreti reklam bütçesine dahil mi?", "c": "Genellikle hayır. Reklam bütçesi doğrudan Meta'ya ödenir; ajans ücreti ise planlama, içerik ve raporlama hizmetinin bedelidir. Harcamanın sizin adınıza açılmış reklam hesabından yapılması en şeffaf yöntemdir."},
+    {"s": "Reklam bütçesini ne sıklıkla değiştirmeliyim?", "c": "Her gün değil. Meta yeni ya da çok değiştirilen reklam setlerinin bir öğrenme aşamasından geçtiğini belirtiyor. Birkaç gün sonuçları izleyip karar vermek, iyi çalışan reklamın bütçesini kademeli artırmak daha sağlıklıdır."}
+  ],
+  "kaynaklar": [
+    {"ad": "Deloitte / RD, RVD, IAB Türkiye — Türkiye'de Tahmini Medya ve Reklam Yatırımları 2024 Raporu (Nisan 2025)", "url": "https://iabtr.org/wp-content/uploads/2025/04/Medya-ve-Reklam-Yatirimlari-2024_compressed-1.pdf"},
+    {"ad": "Ekonomist — Medya yatırımlarında en büyük pay dijitalin oldu (12 Mayıs 2025)", "url": "https://www.ekonomist.com.tr/medya/medya-yatirimlarinda-en-buyuk-pay-dijitalin-oldu-59981"},
+    {"ad": "DataReportal — Digital 2027: Turkey (5 Kasım 2026)", "url": "https://datareportal.com/reports/digital-2027-turkey"}
+  ]
+}

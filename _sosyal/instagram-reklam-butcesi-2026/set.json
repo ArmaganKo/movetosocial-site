@@ -1,0 +1,18 @@
+{
+  "slug": "instagram-reklam-butcesi-2026",
+  "slaytlar": [
+    {"tip": "kapak", "etiket": "Rehber", "beyaz": "Instagram reklamına", "yesil": "ayda ne kadar?", "alt": "Bütçenizi 5 adımda kendiniz hesaplayın."},
+    {"tip": "rakam", "rakam": "%74,2", "baslik": "medya yatırımı dijitale gitti", "metin": "Türkiye'de 2024'te 213 milyar TL'lik medya yatırımının 158 milyar TL'si dijitaldeydi.", "kaynak": "Deloitte / RD, IAB Türkiye, 2024 raporu"},
+    {"tip": "rakam", "rakam": "%47", "baslik": "dijitalin sosyal medya payı", "metin": "Dijital reklam yatırımının neredeyse yarısı sosyal medyaya harcandı.", "kaynak": "Deloitte / RD, IAB Türkiye, 2024 raporu"},
+    {"tip": "liste", "baslik": "5 adımda aylık bütçe", "maddeler": ["Tek bir hedef seçin", "Sonuç başı en yüksek tutarı bulun", "Hedef sonuç sayısıyla çarpın", "2-4 hafta test edin", "Çalışanı yavaşça büyütün"]},
+    {"tip": "madde", "no": "02", "baslik": "Sınırı kâr marjınız çizer", "metin": "Bir müşteriye harcayacağınız tutar, o müşteriden kazandığınız kârı geçmemeli."},
+    {"tip": "liste", "baslik": "Sık yapılan hatalar", "maddeler": ["Sadece \"Öne çıkar\" butonu", "Beğeniyi başarı saymak", "Test etmeden büyük bütçe", "Her gün ayar değiştirmek", "Piksel ve ölçüm kurmamak"]},
+    {"tip": "rakam", "rakam": "60,2 M", "baslik": "Instagram'ın Türkiye'deki erişimi", "metin": "Kitle orada. Fark, bütçeyi bir plana bağlamakta.", "kaynak": "DataReportal, Ekim 2026"},
+    {"tip": "cta", "baslik": "Hesabın tamamı blogumuzda", "metin": "Örnek hesap ve sektörlere göre öneriler:"}
+  ],
+  "instagram": {
+    "aciklama": "\"Instagram reklamına ayda ne kadar ayırmalıyım?\" Cevap bir rakam değil, bir hesap. 📊\n\nTürkiye'de 2024'te medya yatırımının %74,2'si dijitale, dijitalin %47'si sosyal medyaya gitti. Rekabet bu kadar yoğunken plansız harcama pahalıya geliyor.\n\nKaydırın, bütçenizi 5 adımda nasıl hesaplayacağınızı görün. Örnek hesap ve sektörlere göre önerilerle yazının tamamı blogumuzda: movetosocial.com.tr/blog\n\nKaydedin, bir sonraki kampanyayı planlarken lazım olacak.",
+    "hashtag": ["#instagramreklamı", "#metareklam", "#dijitalpazarlama", "#reklambütçesi", "#movetosocial"]
+  },
+  "linkedin": "\"Instagram reklamına ayda ne kadar ayırmalıyız?\" sorusunun cevabı bir rakam değil, bir hesap.\n\nDeloitte'un sektör kuruluşları için hazırladığı rapora göre Türkiye'de 2024'te medya yatırımının %74,2'si, yani 158 milyar TL dijitale gitti; dijitalin %47'si sosyal medyaya harcandı. Rekabet bu kadar yoğunken bütçeyi bir plana bağlamak şart.\n\nAylık bütçeyi belirlemek için 5 adım:\n\n• Her kampanyaya tek bir hedef verin: satış, mesaj, randevu ya da site ziyareti.\n• Bir sonuç için harcayabileceğiniz en yüksek tutarı kâr marjınıza göre belirleyin.\n• Bu tutarı aylık hedef sonuç sayısıyla çarpın; ilk tahmininiz budur.\n• 2-4 hafta farklı içerik ve kitlelerle test edin; gerçek maliyeti test gösterir.\n• Çalışan reklamın bütçesini kademeli artırın, çalışmayanı kapatın.\n\nÇıkarım: Bütçeyi büyüklüğü değil, hesabı doğru kurmak belirliyor. Ajans ücreti ile reklam bütçesini de ayrı kalem olarak planlayın.\n\nÖrnek hesap ve sektörlere göre öneriler:\n{link}\n\n#dijitalpazarlama #sosyalmedya #kobi"
+}
