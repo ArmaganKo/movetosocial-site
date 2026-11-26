@@ -1,0 +1,9 @@
+"Claude videomu nasıl kurguladı?" Cevap: konuşarak. 🎙️
+
+Ham videoyu Claude'a veriyorsunuz, ne istediğinizi düz Türkçe söylüyorsunuz: "ismimi büyük yaz", "siyah-beyaz yap", "yok, geri al". Claude bunu koda çevirip videoyu üretiyor.
+
+Kaydırın, 7 adımı görün. Örnek komutlar ve çekim ipuçları blogumuzda: movetosocial.com.tr/blog
+
+Kaydedin, video çekerken lazım olacak.
+
+#videokurgu #reels #yapayzeka #claude #movetosocial

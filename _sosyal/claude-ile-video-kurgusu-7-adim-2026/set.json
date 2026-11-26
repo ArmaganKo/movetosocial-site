@@ -1,0 +1,69 @@
+{
+  "slug": "claude-ile-video-kurgusu-7-adim-2026",
+  "slaytlar": [
+    {
+      "tip": "kapak",
+      "etiket": "Yapay Zekâ",
+      "beyaz": "Claude ile video",
+      "yesil": "kurgusu: 7 adım",
+      "alt": "Ham videodan paylaşıma hazır Reels'e."
+    },
+    {
+      "tip": "liste",
+      "baslik": "Ham videodan Reels'e",
+      "maddeler": [
+        "Tek seferde, dikey çekin",
+        "Videoyu klasöre koyun",
+        "Konuşmayı yazıya döktürün",
+        "İskeleti kurun",
+        "Komutları uygulatın",
+        "Önizleyip düzeltin"
+      ]
+    },
+    {
+      "tip": "madde",
+      "no": "07",
+      "baslik": "Kalıbı skill olarak kaydedin",
+      "metin": "Bir sonraki videoda aynı format tek komutla gelir."
+    },
+    {
+      "tip": "madde",
+      "no": "!",
+      "baslik": "\"Yok, geri al\" anı",
+      "metin": "Kurgunun gerçekten konuşarak yönetildiğini gösterir. Video daha samimi durur."
+    },
+    {
+      "tip": "rakam",
+      "rakam": "60,2 M",
+      "baslik": "Instagram'ın Türkiye'deki erişimi",
+      "metin": "Müşterileriniz orada. Düzenli Reels bu yüzden önemli.",
+      "kaynak": "DataReportal, Ekim 2026"
+    },
+    {
+      "tip": "liste",
+      "baslik": "Çekimde dikkat",
+      "maddeler": [
+        "Yüzünüze önden ışık",
+        "Yaka mikrofonu",
+        "Kartlar için boşluk",
+        "Sade arka plan"
+      ]
+    },
+    {
+      "tip": "cta",
+      "baslik": "7 adımın ayrıntısı blogumuzda",
+      "metin": "Örnek komutlarla birlikte:"
+    }
+  ],
+  "instagram": {
+    "aciklama": "\"Claude videomu nasıl kurguladı?\" Cevap: konuşarak. 🎙️\n\nHam videoyu Claude'a veriyorsunuz, ne istediğinizi düz Türkçe söylüyorsunuz: \"ismimi büyük yaz\", \"siyah-beyaz yap\", \"yok, geri al\". Claude bunu koda çevirip videoyu üretiyor.\n\nKaydırın, 7 adımı görün. Örnek komutlar ve çekim ipuçları blogumuzda: movetosocial.com.tr/blog\n\nKaydedin, video çekerken lazım olacak.",
+    "hashtag": [
+      "#videokurgu",
+      "#reels",
+      "#yapayzeka",
+      "#claude",
+      "#movetosocial"
+    ]
+  },
+  "linkedin": "Video kurgusunda zaman çizelgesi yerine cümle kullanmak mümkün.\n\nClaude Code ve Remotion ile kurgu şöyle ilerliyor:\n\n• Ham video tek seferde, dikey çekiliyor\n• Konuşma kelime kelime zamanlı yazıya dökülüyor\n• Format bir kez kuruluyor: üstte kurgulu, altta ham video\n• Her komut söylendiği saniyede ekrana yansıyor\n• Beğenilen kurgu skill olarak kaydediliyor ve tekrar kullanılıyor\n\nKurgu hızlanıyor, ama ışık ve ses hâlâ çekimde çözülüyor.\n\n7 adım ve örnek komutlar:\n{link}\n\n#yapayzeka #videoicerik #sosyalmedya"
+}

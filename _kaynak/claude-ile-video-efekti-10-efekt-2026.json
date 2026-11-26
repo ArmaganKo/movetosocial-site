@@ -1,0 +1,62 @@
+{
+  "slug": "claude-ile-video-efekti-10-efekt-2026",
+  "baslik": "Claude ile Video Efekti: Reels İçin 10 Hazır Efekt 2026",
+  "aciklama": "Claude ile video efekti eklemek tek komut: arkadan geçen yazı, sayan rakamlar, spot ışığı, sıralama tablosu. Reels için 10 efekt ve hangi işletmeye uyduğu.",
+  "ozet": "Claude ile video efekti eklemek için Claude Code'da bir efekt skill'i kurulur ve /effects text-behind gibi bir komut yazılır; Claude efekti Remotion ile video koduna ekleyip MP4 çıkarır. Bu yazıda Instagram'da çok izlenen videodaki 10 efekti anlatıyoruz: arkadan geçen yazı, yörüngede dönen kartlar, dergi kapağı geçişi, donan kare, cam kartlar, spot ışığı, sayan rakamlar, tiklenen liste, sıralama tablosu ve açılan düğmeler.",
+  "kart": "Arkadan geçen yazıdan sayan rakamlara, Instagram'da çok izlenen videodaki 10 Claude efekti ve hangi işletmeye uydukları.",
+  "kategori": "Yapay Zekâ",
+  "etiketler": [
+    "Claude",
+    "video efekti",
+    "Reels",
+    "yapay zekâ",
+    "video kurgu",
+    "Instagram Reels"
+  ],
+  "tarih": "2026-11-26",
+  "kapak": {
+    "beyaz": "Claude ile Reels'e",
+    "yesil": "10 Video Efekti"
+  },
+  "alt": [
+    "Claude ile video efekti: Reels için 10 hazır efekt 2026 blog kapağı, Move to Social logolu yeşil tasarım",
+    "Yapay zekâ ile Reels videolarına eklenen 10 efekt rehberi kapak görseli"
+  ],
+  "ilgili": [
+    "claude-skill-nedir-reels-6-komut-2026",
+    "claude-ile-video-kurgusu-7-adim-2026",
+    "instagram-reklam-butcesi-2026"
+  ],
+  "cta": {
+    "baslik": "Sosyal medya hizmeti almak ister misiniz?",
+    "metin": "Bu efektlerle Reels'lerinizi markanızın renkleri ve diliyle biz hazırlayalım. Çekim, kurgu ve paylaşım planını WhatsApp'tan konuşalım."
+  },
+  "sss": [
+    {
+      "s": "Claude ile video efekti eklemek için hangi araçlar gerekir?",
+      "c": "Claude Code, bir Remotion projesi ve Remotion'ın resmi skill paketi yeterlidir. Yazının kişinin arkasından geçmesi gibi efektler için ek olarak bir arka plan ayırma aracı kullanılır."
+    },
+    {
+      "s": "Bir Reels videosunda kaç efekt kullanılmalı?",
+      "c": "30 saniyelik bir videoda 2-3 efekt genellikle yeterlidir. Efekt söylenen cümleyi desteklemeli, altyazının okunmasını engellememelidir."
+    },
+    {
+      "s": "Yazının arkadan geçmesi efekti her videoda çalışır mı?",
+      "c": "Kişinin arka plandan ayrılması gerektiği için sade ve düz bir arka planda çok daha temiz sonuç verir. Karışık arka planlarda saç ve kenarlarda hafif titreme olabilir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "ad": "eMarketer — Reels carries over half of all Instagram ad load (Sensor Tower verisi)",
+      "url": "https://www.emarketer.com/content/reels-carries-over-half-of-all-instagram-ad-load-monetization-could-lag"
+    },
+    {
+      "ad": "Remotion — Agent Skills belgeleri",
+      "url": "https://www.remotion.dev/docs/ai/skills"
+    },
+    {
+      "ad": "Anthropic — Claude Code belgeleri: Skills",
+      "url": "https://code.claude.com/docs/en/skills"
+    }
+  ]
+}

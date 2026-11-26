@@ -1,0 +1,16 @@
+Video kurgusunda zaman çizelgesi yerine cümle kullanmak mümkün.
+
+Claude Code ve Remotion ile kurgu şöyle ilerliyor:
+
+• Ham video tek seferde, dikey çekiliyor
+• Konuşma kelime kelime zamanlı yazıya dökülüyor
+• Format bir kez kuruluyor: üstte kurgulu, altta ham video
+• Her komut söylendiği saniyede ekrana yansıyor
+• Beğenilen kurgu skill olarak kaydediliyor ve tekrar kullanılıyor
+
+Kurgu hızlanıyor, ama ışık ve ses hâlâ çekimde çözülüyor.
+
+7 adım ve örnek komutlar:
+https://www.movetosocial.com.tr/blog/claude-ile-video-kurgusu-7-adim-2026/
+
+#yapayzeka #videoicerik #sosyalmedya

@@ -1,0 +1,69 @@
+{
+  "slug": "claude-skill-nedir-reels-6-komut-2026",
+  "slaytlar": [
+    {
+      "tip": "kapak",
+      "etiket": "Yapay Zekâ",
+      "beyaz": "Claude skill ile",
+      "yesil": "Reels: 6 komut",
+      "alt": "\"Bunu yaz, bunu al\" videolarının arkasındaki sistem."
+    },
+    {
+      "tip": "madde",
+      "no": "01",
+      "baslik": "Claude skill nedir?",
+      "metin": "Claude'a bir kez öğrettiğiniz iş tarifi. Sonra tek komutla tekrar kullanırsınız."
+    },
+    {
+      "tip": "liste",
+      "baslik": "Reels için 6 skill fikri",
+      "maddeler": [
+        "/isletme-reels: altyazı ve logo",
+        "/siralama-reels: S-A-B-C tablosu",
+        "/ekran-reels: site ve rakamlar",
+        "/kesit-grid: ürün ızgarası",
+        "/aciklama-panel: bilgi kartları",
+        "/kisisel-reels: sade kurgu"
+      ]
+    },
+    {
+      "tip": "rakam",
+      "rakam": "%45",
+      "baslik": "Önerilen Reels'in bir günden yeni payı",
+      "metin": "Instagram taze içeriği öne çıkarıyor. Hız önemli.",
+      "kaynak": "Meta, 2026 3. çeyrek"
+    },
+    {
+      "tip": "liste",
+      "baslik": "4 adımda kurulum",
+      "maddeler": [
+        "Claude Code'u kurun",
+        "Remotion skill'lerini ekleyin",
+        "Marka kurallarınızı yazın",
+        "Komutla çalıştırıp düzeltin"
+      ]
+    },
+    {
+      "tip": "madde",
+      "no": "!",
+      "baslik": "Strateji yine sizde",
+      "metin": "Skill nasıl kurgulanacağını bilir; neyin anlatılacağını değil."
+    },
+    {
+      "tip": "cta",
+      "baslik": "Reels'lerinizi biz hazırlayalım",
+      "metin": "Kurulumun tamamı blogumuzda:"
+    }
+  ],
+  "instagram": {
+    "aciklama": "\"Bunu yaz, bunu al\" videolarını gördünüz mü? Arkasında bir Claude skill var. ✅\n\nSkill, Claude'a bir kez öğrettiğiniz iş tarifi. Markanızın renkleri, altyazısı, kapanışı bir kez yazılıyor; sonra her video tek komutla aynı kalitede çıkıyor.\n\nKaydırın, 6 skill fikrini görün. Kurulumun 4 adımını blogumuzda anlattık: movetosocial.com.tr/blog\n\nKaydedin, Reels kurgularken lazım olacak.",
+    "hashtag": [
+      "#yapayzeka",
+      "#claude",
+      "#reels",
+      "#içerikuretimi",
+      "#movetosocial"
+    ]
+  },
+  "linkedin": "Instagram'da çok izlenen \"bunu yaz, bunu al\" videolarının arkasında bir Claude skill var.\n\nSkill, Claude'a bir kez yazdığınız iş tarifi. Reels kurgusu için şunları içerebilir:\n\n• Marka renkleri, yazı tipi ve logo yerleşimi\n• Altyazı boyutu ve kapanış cümlesi\n• Sıralama tablosu, bilgi kartı gibi hazır formatlar\n• Video süresi ve dışa aktarma ayarları\n\nMeta'nın 2026 3. çeyrek verisine göre önerilen Reels'in yaklaşık yüzde 45'i bir günden yeni. Düzenli üretim artık şart; kurgunun tekrar eden kısmını komuta indirmek bu yüzden değerli.\n\n6 skill fikri ve 4 adımda kurulum:\n{link}\n\n#yapayzeka #icerikpazarlama #sosyalmedya"
+}

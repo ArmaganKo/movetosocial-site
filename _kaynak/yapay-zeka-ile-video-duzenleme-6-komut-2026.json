@@ -1,0 +1,66 @@
+{
+  "slug": "yapay-zeka-ile-video-duzenleme-6-komut-2026",
+  "baslik": "Yapay Zeka ile Video Düzenleme: 6 Komutla Reels 2026",
+  "aciklama": "Yapay zeka ile video düzenleme artık komutla: harita animasyonu, profil kartı, ekranı bölme, renk ve müzik. Videodaki 6 komutun arkasındaki teknik ve 5 hata.",
+  "ozet": "Yapay zeka ile video düzenlemede kurgu programı yerine komut kullanılır: \"bir dünya haritası aç, iki şehir arasına çizgi çiz\" gibi bir cümleyi Claude Code, Remotion koduna çevirir ve video üretilir. Bu yazıda Instagram'da izlenen videodaki 6 komutu (profil kartı, harita, site önizlemesi, ekranı bölme, renk ayarı, müzik) ve arkasındaki tekniği, klasik kurgudan farkını ve sık yapılan 5 hatayı anlatıyoruz.",
+  "kart": "Harita animasyonundan ekranı ikiye bölmeye, konuşmalı videoyu komutla düzenleyen 6 yapay zekâ komutu ve 5 sık hata.",
+  "kategori": "Yapay Zekâ",
+  "etiketler": [
+    "yapay zekâ",
+    "video düzenleme",
+    "Claude",
+    "Reels",
+    "video kurgu",
+    "motion graphics"
+  ],
+  "tarih": "2026-11-26",
+  "kapak": {
+    "beyaz": "Yapay Zekayla Video",
+    "yesil": "Düzenleme: 6 Komut"
+  },
+  "alt": [
+    "Yapay zeka ile video düzenleme: 6 komutla Reels 2026 blog kapağı, Move to Social logolu yeşil tasarım",
+    "Konuşmalı videolara komutla harita ve grafik ekleme rehberi kapak görseli"
+  ],
+  "ilgili": [
+    "claude-ile-video-kurgusu-7-adim-2026",
+    "claude-ile-video-efekti-10-efekt-2026",
+    "claude-skill-nedir-reels-6-komut-2026"
+  ],
+  "cta": {
+    "baslik": "Sosyal medya hizmeti almak ister misiniz?",
+    "metin": "Konuşmalı videolarınızı haritalı, grafikli ve markanıza uygun şekilde biz düzenleyelim. Çekim, kurgu ve reklamı WhatsApp'tan konuşalım."
+  },
+  "sss": [
+    {
+      "s": "Yapay zeka ile video düzenleme için hangi program kullanılır?",
+      "c": "Bu yazıdaki yöntemde Anthropic'in Claude Code aracı ve videoyu kodla üreten Remotion kullanılır. Claude komutu Remotion koduna çevirir, Remotion da MP4 çıkarır."
+    },
+    {
+      "s": "Videodaki komut kutusu gerçek mi?",
+      "c": "Komut kutusu sürecin izleyiciye gösterilmesi için kurguya eklenen görsel bir öğedir. Gerçek çalışmada komutlar Claude Code'a yazılır ve sonuç önizleme ekranında kontrol edilir."
+    },
+    {
+      "s": "Yapay zeka ile düzenlenen videolarda müzik kullanmak serbest mi?",
+      "c": "Hayır. Müziğin, haritanın, logoların ve ekran görüntülerinin kullanım hakkının sizde olması gerekir. Telifsiz müzik kütüphaneleri ya da platformların kendi müzik arşivleri tercih edilmelidir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "ad": "eMarketer — Reels carries over half of all Instagram ad load (Sensor Tower verisi)",
+      "url": "https://www.emarketer.com/content/reels-carries-over-half-of-all-instagram-ad-load-monetization-could-lag"
+    },
+    {
+      "ad": "Nasdaq — Meta Platforms Q2 Earnings Call Highlights (2026)",
+      "url": "https://www.nasdaq.com/articles/meta-platforms-q2-earnings-call-highlights"
+    },
+    {
+      "ad": "Anthropic — Claude Code belgeleri: Skills",
+      "url": "https://code.claude.com/docs/en/skills"
+    },
+    {
+      "ad": "Remotion — Agent Skills belgeleri",
+      "url": "https://www.remotion.dev/docs/ai/skills"
+    }
+  ]
+}

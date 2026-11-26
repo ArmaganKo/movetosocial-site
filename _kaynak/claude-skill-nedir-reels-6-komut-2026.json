@@ -1,0 +1,74 @@
+{
+  "slug": "claude-skill-nedir-reels-6-komut-2026",
+  "baslik": "Claude Skill Nedir: Reels İçin 6 Hazır Komut 2026",
+  "aciklama": "Claude skill, Claude'a bir kez öğretilen iş tarifidir. Tek komutla Reels kurgulayan 6 skill fikri, 4 adımda kolay kurulum ve dikkat edilecek sınırlar bu yazıda.",
+  "ozet": "Claude skill, Claude'a bir kez öğrettiğiniz ve sonra tek komutla tekrar kullandığınız bir iş tarifidir: içinde talimatların yazdığı bir SKILL.md dosyasından oluşur. Instagram'daki \"bunu yaz, bunu al\" videolarında ham video, /isletme-reels gibi bir komutla Claude Code'a veriliyor; Claude, Remotion ya da ffmpeg ile kurguyu kodlayıp MP4 çıkarıyor. Bu yazıda Reels için 6 skill fikrini ve 4 adımlık kurulumu anlatıyoruz.",
+  "kart": "Instagram'daki \"bunu yaz, bunu al\" videolarının arkasındaki Claude skill nedir, Reels için nasıl kurulur? 6 komut fikri ve 4 adım.",
+  "kategori": "Yapay Zekâ",
+  "etiketler": [
+    "Claude",
+    "Claude skill",
+    "yapay zekâ",
+    "Reels",
+    "video kurgu",
+    "içerik üretimi"
+  ],
+  "tarih": "2026-11-26",
+  "kapak": {
+    "beyaz": "Claude Skill ile",
+    "yesil": "Reels: 6 Komut"
+  },
+  "alt": [
+    "Claude skill nedir ve Reels için 6 hazır komut 2026 blog kapağı, Move to Social logolu yeşil tasarım",
+    "Tek komutla Reels kurgulayan Claude skill rehberi kapak görseli"
+  ],
+  "ilgili": [
+    "claude-ile-video-kurgusu-7-adim-2026",
+    "claude-ile-video-efekti-10-efekt-2026",
+    "yapay-zeka-ile-video-duzenleme-6-komut-2026"
+  ],
+  "cta": {
+    "baslik": "Sosyal medya hizmeti almak ister misiniz?",
+    "metin": "Çekimden Claude ile kurguya, paylaşım planından reklama kadar Reels'lerinizi biz hazırlayalım. İhtiyacınızı WhatsApp'tan kısaca yazın, size özel teklifle dönelim."
+  },
+  "sss": [
+    {
+      "s": "Claude skill nedir?",
+      "c": "Claude'a bir kez yazdığınız ve sonra tekrar tekrar kullandığınız bir talimat paketidir. Bir klasör ve içindeki SKILL.md dosyasından oluşur. Claude onu gerektiğinde kendisi kullanır ya da siz /skill-adı yazarak çağırırsınız."
+    },
+    {
+      "s": "Claude ile video kurgulamak için kod bilmek gerekir mi?",
+      "c": "Kodu Claude yazar, ama Claude Code'u, Node.js'i ve terminali kullanabilmeniz gerekir. İlk kurulumdan sonra çoğu işlem tek komut ve düz Türkçe düzeltmelerle yürür."
+    },
+    {
+      "s": "Claude skill her işletme için uygun mu?",
+      "c": "Düzenli video üreten her işletme için uygundur: restoran, klinik, mağaza, otel, emlak ofisi, eğitim kurumu. Skill'e kendi renklerinizi, yazı tipinizi ve kapanış cümlenizi yazdığınızda her video markanıza uygun çıkar."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "ad": "Anthropic — Claude Code belgeleri: Skills",
+      "url": "https://code.claude.com/docs/en/skills"
+    },
+    {
+      "ad": "Anthropic — Equipping agents for the real world with Agent Skills (16 Ekim 2025)",
+      "url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills"
+    },
+    {
+      "ad": "Remotion — Agent Skills belgeleri",
+      "url": "https://www.remotion.dev/docs/ai/skills"
+    },
+    {
+      "ad": "Social Media Today — Meta 2026 3. çeyrek platform verileri",
+      "url": "https://socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807"
+    },
+    {
+      "ad": "Nasdaq — Meta Platforms Q2 Earnings Call Highlights (2026)",
+      "url": "https://www.nasdaq.com/articles/meta-platforms-q2-earnings-call-highlights"
+    },
+    {
+      "ad": "DataReportal — Digital 2027: Turkey (5 Kasım 2026)",
+      "url": "https://datareportal.com/reports/digital-2027-turkey"
+    }
+  ]
+}

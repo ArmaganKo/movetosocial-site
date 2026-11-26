@@ -1,0 +1,66 @@
+<p>Ekranın altında ham video, üstünde aynı videonun kurgulanmış hâli. Konuşan kişi arada bir "Claude, ismimi büyük yaz" ya da "şimdi siyah-beyaz yap, yok beğenmedim, geri al" diyor ve üstteki video anında değişiyor. Üstte de sabit bir başlık var: "Claude videomu nasıl kurguladı?" Bu yazıda bu formatı ve arkasındaki yöntemi, yani <strong>Claude ile video kurgusu</strong> yapmayı, ham videodan paylaşıma 7 adımda anlatıyoruz.</p>
+
+<div class="note"><b>Instagram'dan mı geldiniz?</b> Videodaki kurgunun adım adım nasıl yapıldığı aşağıda. Kurgu, çekim ve paylaşımla uğraşmak istemiyorsanız <a class="js-wa" href="/#iletisim">WhatsApp'tan bize yazın</a>; sosyal medya hizmeti için size özel teklif hazırlayalım.</div>
+
+<h2>Claude ile video kurgusu ne demek?</h2>
+
+<p>Klasik kurguda bir zaman çizelgesi (timeline) açarsınız, klipleri sürükler, kesip biçer, efektleri tek tek ayarlarsınız. Claude ile video kurgusunda ise ne istediğinizi düz Türkçe yazarsınız ya da söylersiniz; Claude bunu video koduna çevirir ve videoyu kendisi üretir.</p>
+
+<p>Bunun için kullanılan araç Claude Code: Anthropic'in, bilgisayarınızdaki dosyalarla çalışabilen, kod yazıp çalıştırabilen Claude sürümü. Video tarafında ise çoğunlukla Remotion (videoyu React koduyla üreten açık kaynaklı bir çatı) ve ffmpeg (video ve ses işleme aracı) kullanılıyor. Remotion'ın Claude Code için yayımladığı resmi skill'ler, Claude'un animasyon ve dışa aktarma kurallarını baştan bilmesini sağlıyor.</p>
+
+<h2>Ham video ve kurgulu video yan yana: format neden işe yarıyor?</h2>
+
+<p>Bu format üç şeyi aynı anda yapıyor:</p>
+
+<ul>
+  <li><strong>Merak uyandırıyor.</strong> İzleyici iki video arasındaki farkı her saniye görüyor ve "bunu nasıl yaptı" diye sonuna kadar izliyor.</li>
+  <li><strong>Güven veriyor.</strong> Ham görüntü saklanmıyor; sonucun gerçek olduğu ortada.</li>
+  <li><strong>Kaydedilmeye uygun.</strong> Yöntem gösterildiği için izleyiciler videoyu "sonra denerim" diye kaydediyor.</li>
+</ul>
+
+<p>Tazelik de önemli. Meta'nın 2026 üçüncü çeyrek açıklamasına göre Instagram'da önerilen Reels'in yaklaşık yüzde 45'i bir günden daha yeni. Düzenli üretim yapan hesaplar bu yüzden avantajlı; kurguyu hızlandıran her yöntem doğrudan görünürlüğe yansıyor.</p>
+
+<div class="stats">
+  <div class="stat"><b>%45</b><span>önerilen Instagram Reels içinde bir günden yeni olanların payı (Meta, 2026 3. çeyrek)</span></div>
+  <div class="stat"><b>60,2 M</b><span>Instagram'ın Türkiye'deki reklam erişimi (DataReportal, Ekim 2026)</span></div>
+</div>
+
+<p>Türkiye'deki platform rakamlarının tamamını <a href="/blog/turkiye-sosyal-medya-istatistikleri-2026/">Türkiye sosyal medya istatistikleri 2026</a> yazımızda bulabilirsiniz.</p>
+
+<h2>Claude ile video kurgusu: ham videodan Reels'e 7 adım</h2>
+
+<ol class="steps">
+  <li><div><b>Tek seferde, dikey çekin</b><span>9:16, belden yukarısı, yaka mikrofonuyla. Komutları kameraya, Claude'a söyler gibi doğal şekilde söyleyin. Hata yaparsanız durmayın, Claude sonra keser.</span></div></li>
+  <li><div><b>Videoyu proje klasörüne koyun</b><span>Claude Code'un çalıştığı Remotion projesinin içine ham videoyu ekleyin. Logo ve marka renkleriniz de aynı klasörde dursun.</span></div></li>
+  <li><div><b>Konuşmayı yazıya döktürün</b><span>Claude'dan konuşmanın kelime kelime zamanlı dökümünü çıkarmasını isteyin. Altyazılar ve efektlerin zamanlaması bu dökümden gelir.</span></div></li>
+  <li><div><b>İskeleti kurun</b><span>"Üstte kurgulu, altta ham video olsun; en üstte sabit başlık dursun" deyin. Format bir kez kurulunca sonraki videolarda aynen kullanılır.</span></div></li>
+  <li><div><b>Komutları sırayla uygulatın</b><span>Videoda söylediğiniz her komut, o saniyede ekranda gerçekleşecek şekilde koda eklenir: isim büyük yazı, ikon kartlar, ekranı ikiye bölme, siyah-beyaz, renk paleti.</span></div></li>
+  <li><div><b>Önizleyin ve konuşarak düzeltin</b><span>Remotion Studio'da videoyu izleyin. "Yazı ekrandan taşıyor, küçült", "müzik daha enerjik olsun" gibi düzeltmeleri düz Türkçe söyleyin.</span></div></li>
+  <li><div><b>Dışa aktarın ve kalıbı kaydedin</b><span>MP4'ü alın. Beğendiğiniz kurguyu bir skill olarak kaydedin; bir sonraki videoda tek komutla aynı formatı alırsınız.</span></div></li>
+</ol>
+
+<p>Son adımdaki skill mantığını <a href="/blog/claude-skill-nedir-reels-6-komut-2026/">Claude skill nedir</a> yazımızda ayrıntılı anlattık.</p>
+
+<h2>Kurguyu konuşarak yönetmek: örnek komutlar</h2>
+
+<p>Bu formatta komutlar hem videonun içeriği hem de kurgunun talimatı. Örnek bir akış:</p>
+
+<blockquote>"Claude, ismimi büyük yaz." → "Yanıma işimi anlatan dört ikon koy." → "Ekranı ikiye böl, solda laptop olsun." → "Şimdi siyah-beyaz yap." → "Yok, geri al." → "Renkleri marka renklerim yap, yazılar büyük olsun." → "Bu video için 3 kapak hazırla." → "Müziği değiştir." → "Başa sar."</blockquote>
+
+<p>"Yok, geri al" gibi anlar özellikle işe yarıyor: izleyici kurgunun gerçekten konuşarak yönetildiğini görüyor ve video daha samimi duruyor. Bu efektlerin her birini <a href="/blog/claude-ile-video-efekti-10-efekt-2026/">Claude ile video efekti</a> yazımızda tek tek inceledik.</p>
+
+<h2>Çekimde dikkat edilecekler</h2>
+
+<ul>
+  <li><strong>Işık:</strong> Yüzünüze önden, pencereden ya da yumuşak bir lambadan ışık gelsin. Kurgu kötü ışığı kurtaramaz.</li>
+  <li><strong>Ses:</strong> Yaka mikrofonu fark yaratır. Altyazılar da sesten çıkarıldığı için net ses, doğru altyazı demek.</li>
+  <li><strong>Boşluk:</strong> Kartların ve laptopun geleceği taraf için kadrajda biraz yer bırakın. "Ekranı ikiye böl" dediğiniz anda hafifçe kenara kayın.</li>
+  <li><strong>Arka plan:</strong> Yazının arkadan geçeceği efektler için sade bir arka plan seçin.</li>
+  <li><strong>Süre:</strong> 60-90 saniye bu format için uygun. Komutlar arasında 4-6 saniye bırakın ki izleyici değişikliği görebilsin.</li>
+</ul>
+
+<h2>Ne zaman kendiniz, ne zaman bir ekiple?</h2>
+
+<p>Teknik araçlarla rahatsanız ve düzenli video üretiyorsanız, bu yöntem kurgu süresini ciddi ölçüde kısaltır. Ama ilk kurulum, format tasarımı ve her videonun ince ayarı yine emek ister. Çoğu işletme için asıl iş de kurgudan önce başlar: ne çekileceği, hangi kancayla açılacağı, hangi videonun reklama çıkacağı.</p>
+
+<p>Move to Social olarak <a href="/#hizmetler">sosyal medya hizmetlerimizde</a> çekim planından kurguya, paylaşımdan reklam yönetimine kadar bu işleri birlikte yürütüyoruz. Kurguda Claude gibi araçları kullandığımız için videolar hızlı çıkıyor; siz işinize odaklanıyorsunuz.</p>

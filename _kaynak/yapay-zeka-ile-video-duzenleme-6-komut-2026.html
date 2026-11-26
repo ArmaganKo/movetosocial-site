@@ -1,0 +1,69 @@
+<p>Kameraya konuşan bir kişi düşünün. Arkasında bir anda dünya haritası açılıyor, iki şehir arasına bir uçuş çizgisi çiziliyor. Sonra ekran ikiye bölünüyor ve yanında bir liste beliriyor. Renkler ısınıyor, müzik değişiyor. Üstte de bir komut kutusu var: tüm bunlar oraya yazılan cümlelerle oluyor. Bu yazıda bu tür videoların arkasındaki yöntemi, yani <strong>yapay zeka ile video düzenleme</strong>yi, videodaki 6 komut üzerinden anlatıyoruz.</p>
+
+<div class="note"><b>Instagram'dan mı geldiniz?</b> Videodaki 6 komutun nasıl çalıştığı aşağıda. Bu işle uğraşmadan videolarınızın böyle çıkmasını istiyorsanız <a class="js-wa" href="/#iletisim">WhatsApp'tan bize yazın</a>, sosyal medya hizmeti için teklifimizi iletelim.</div>
+
+<h2>Yapay zeka ile video düzenleme: program değil, komut</h2>
+
+<p>Klasik kurgu programlarında harita animasyonu yapmak için ya hazır bir şablon satın alırsınız ya da saatlerce anahtar kare (keyframe) ayarlarsınız. Yapay zeka ile video düzenlemede ise ne istediğinizi bir cümleyle anlatırsınız: "Bir dünya haritası aç, Moskova'dan Ankara'ya bir çizgi çiz."</p>
+
+<p>Bu videolarda kullanılan yöntem, Anthropic'in Claude Code aracı ile Remotion'ın birleşimi. Claude Code bilgisayarınızda çalışıp dosyalarınızı okuyabilen ve kod yazıp çalıştırabilen bir yapay zekâ asistanı. Remotion ise videoyu React koduyla, yani bir web sayfası gibi üreten açık kaynaklı bir çatı. Claude, isteğinizi Remotion koduna çeviriyor; Remotion bu koddan MP4 üretiyor. Remotion'ın Claude Code gibi ajanlar için yayımladığı resmi skill'ler, Claude'un bu kodu doğru yazmasını sağlıyor.</p>
+
+<p>Videodaki komut kutusu bu süreci izleyiciye göstermenin görsel bir yolu. Gerçek çalışmada komutlar Claude Code'a yazılıyor ve sonuç önizleme ekranında görülüyor.</p>
+
+<h2>Videodaki 6 komut ve arkasındaki teknik</h2>
+
+<ol class="steps">
+  <li><div><b>"Adımı yaz ve profilimi göster"</b><span>İsim, zarif bir yazıyla ekrana gelir; yanında Instagram profil kartı belirir. Claude profil bilgilerini bir kart bileşenine dönüştürür ve konuştuğunuz saniyeye yerleştirir.</span></div></li>
+  <li><div><b>"Bir dünya haritası aç, şuradan şuraya çizgi çiz"</b><span>Noktalı bir harita arka plana gelir, iki şehir arasında uçuş rotası çizilir. Harita bir görsel ya da harita kütüphanesiyle kurulur, çizgi kodla canlandırılır.</span></div></li>
+  <li><div><b>"Yanıma bir site göster"</b><span>Web sitenizin ekran görüntüleri yanınızda kayarak açılır. Hizmet ya da ürün sayfası göstermenin hızlı bir yolu.</span></div></li>
+  <li><div><b>"Ekranı ikiye böl, yanına 4 madde yaz"</b><span>Görüntü kenara kayar, boşalan yarıya numaralı bir liste gelir. Maddeler siz saydıkça tek tek belirir.</span></div></li>
+  <li><div><b>"Renkleri biraz sıcaklaştır"</b><span>Renk ayarı paneli açılır, görüntünün tonu değişir. "Yok, benim tonlarımı yapalım" denildiğinde marka renklerinize göre ayarlanır.</span></div></li>
+  <li><div><b>"Müziği değiştir, ses efektlerini ekle"</b><span>Müzik kartı yeni parçaya geçer, geçişlere kısa ses efektleri eklenir. Müzik dosyasının kullanım hakkının sizde olması gerekir.</span></div></li>
+</ol>
+
+<h2>Neden şimdi: Reels'in payı büyüyor</h2>
+
+<p>Bu tür grafiklerle zenginleştirilmiş konuşmalı videolar özellikle Reels'te işe yarıyor. Sensor Tower verisine dayanan eMarketer analizine göre ABD'de Instagram'da geçirilen sürenin Reels'teki payı 2024'te yüzde 37'den 2025'te yüzde 46'ya çıktı. Instagram'ın küresel ölçeği de büyük: Meta'nın 2026 ikinci çeyrek açıklamasına göre platformun günlük aktif kullanıcısı 2 milyara ulaştı.</p>
+
+<figure class="chart">
+  <figcaption>Instagram'da geçirilen sürenin Reels'teki payı</figcaption>
+  <p class="sub">Yüzde, ABD kullanıcıları</p>
+  <div class="rows">
+    <div class="row"><span class="l">2025</span><div class="tr"><div class="t"><i style="--w:100%"></i><b>%46</b></div></div></div>
+    <div class="row"><span class="l">2024</span><div class="tr"><div class="t"><i style="--w:80%"></i><b>%37</b></div></div></div>
+  </div>
+  <p class="src">Kaynak: <a href="https://www.emarketer.com/content/reels-carries-over-half-of-all-instagram-ad-load-monetization-could-lag" target="_blank" rel="noopener">eMarketer, Sensor Tower verisi</a>. Veri ABD kullanıcılarına aittir.</p>
+</figure>
+
+<h2>Klasik kurgu programıyla farkı</h2>
+
+<ul>
+  <li><strong>Şablon yerine tarif:</strong> Hazır şablonla sınırlı kalmazsınız; ne istediğinizi anlatırsınız ve grafik sıfırdan üretilir.</li>
+  <li><strong>Tekrar kullanılabilirlik:</strong> Beğendiğiniz bir kurgu, bir <a href="/blog/claude-skill-nedir-reels-6-komut-2026/">Claude skill</a> olarak kaydedilir ve sonraki videolarda tek komutla uygulanır.</li>
+  <li><strong>Marka tutarlılığı:</strong> Renkleriniz, yazı tipiniz ve logonuz skill'e bir kez yazılır, her videoda aynı kalır.</li>
+  <li><strong>Öğrenme biçimi:</strong> Kurgu programı öğrenmek yerine Claude Code'u ve terminali kullanmayı öğrenirsiniz. Bu da bir öğrenme eğrisi; yalnızca farklı bir eğri.</li>
+</ul>
+
+<h2>Yapay zeka ile video düzenlemede 5 hata</h2>
+
+<ol class="steps">
+  <li><div><b>Her cümleye grafik koymak</b><span>Grafik, söylenen sözü desteklemeli. Her cümlede bir şey açılırsa izleyici ne dinleyeceğini şaşırır.</span></div></li>
+  <li><div><b>Yazıları ekran kenarına taşırmak</b><span>Telefon ekranının güvenli alanını unutmayın. Instagram arayüzü altta ve sağda yazıları kapatır.</span></div></li>
+  <li><div><b>Kötü çekimi kurgudan beklemek</b><span>Işık ve ses çekimde çözülür. Yapay zekâ kurguyu hızlandırır, çekimi düzeltmez.</span></div></li>
+  <li><div><b>Hak sahibi olmadığınız müzik ve görsel</b><span>Harita, logo, müzik ve ekran görüntülerinin kullanım hakkı sizde olmalı.</span></div></li>
+  <li><div><b>Kontrol etmeden paylaşmak</b><span>İsimler, rakamlar ve altyazılar mutlaka gözden geçirilmeli. Yapay zekâ da yanlış duyabilir, yanlış yazabilir.</span></div></li>
+</ol>
+
+<p>Bu grafikleri ham videoya yerleştirme sürecini <a href="/blog/claude-ile-video-kurgusu-7-adim-2026/">Claude ile video kurgusu: 7 adım</a> yazımızda, kullanılabilecek diğer efektleri ise <a href="/blog/claude-ile-video-efekti-10-efekt-2026/">10 hazır efekt</a> yazımızda anlattık.</p>
+
+<h2>Sektörlere göre kullanım</h2>
+
+<ul>
+  <li><strong>Turizm ve otel:</strong> Harita üzerinde rota, havalimanından otele mesafe.</li>
+  <li><strong>E-ticaret:</strong> Ekranı bölüp ürün özelliklerini listeleme, sitenin ürün sayfasını gösterme.</li>
+  <li><strong>Hukuk ve danışmanlık:</strong> Adım adım süreç listesi, profil kartıyla uzmanlık tanıtımı.</li>
+  <li><strong>Emlak:</strong> Harita üzerinde konum, ulaşım noktaları, ilan sayfasının görünümü.</li>
+  <li><strong>Eğitim:</strong> Konu başlıklarının liste hâlinde açılması, kurs sayfasının gösterimi.</li>
+</ul>
+
+<p>Move to Social olarak <a href="/#hizmetler">sosyal medya hizmetlerimizde</a> bu tür videoları markanıza özel hazırlıyoruz: çekim planı, yapay zekâ destekli kurgu, paylaşım takvimi ve reklam yönetimi bir arada. Siz anlatın, gerisini biz düzenleyelim.</p>

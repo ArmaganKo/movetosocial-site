@@ -1,0 +1,73 @@
+<p>Bir Reels'te yazının konuşan kişinin arkasından geçtiğini, ekranın bir an dergi kapağına dönüştüğünü ya da rakamların sıfırdan sayarak büyüdüğünü görmüşsünüzdür. Bu efektler eskiden ancak kurgu programlarında saatler harcanarak yapılıyordu. Bugün <strong>Claude ile video efekti</strong> eklemek, bir komut yazmak kadar kısa sürebiliyor. Bu yazıda Instagram'da çok izlenen "10 efekt" videosundaki efektleri tek tek anlatıyor, hangisinin hangi işletmeye uyduğunu ve nasıl kurulduğunu gösteriyoruz.</p>
+
+<div class="note"><b>Instagram'dan mı geldiniz?</b> Videodaki 10 efektin nasıl yapıldığı aşağıda. Efektlerle uğraşmadan Reels'lerinizi bizim hazırlamamızı isterseniz <a class="js-wa" href="/#iletisim">WhatsApp'tan yazın</a>, sosyal medya hizmeti için teklifimizi iletelim.</div>
+
+<h2>Claude ile video efekti nasıl yapılıyor?</h2>
+
+<p>Videoda her efektten önce ekranın altında bir terminal kutusu açılıyor ve <code>/effects text-behind</code> gibi bir komut yazılıyor. Bu, Claude Code'da çalışan bir <a href="/blog/claude-skill-nedir-reels-6-komut-2026/">Claude skill</a>'i. Skill'in içinde her efektin tarifi yazılı: nasıl görünecek, ne kadar sürecek, hangi renkleri kullanacak.</p>
+
+<p>Komut yazıldığında Claude, efekti video koduna ekliyor. Bunun için çoğunlukla Remotion kullanılıyor: videoyu React bileşenleriyle, yani bir web sayfası gibi kodla üreten açık kaynaklı bir çatı. Remotion, Claude Code gibi ajanlar için resmi skill paketi de yayımlıyor; bu sayede Claude animasyon, zamanlama ve dışa aktarma kurallarını baştan biliyor. Sonuç, düzenlenebilir bir kod ve paylaşıma hazır bir MP4 oluyor.</p>
+
+<p>Bazı efektler bir adım fazlasını gerektiriyor. Örneğin yazının kişinin arkasından geçmesi için kişinin arka plandan ayrılması (maskelenmesi) gerekiyor. Claude bunu bir arka plan ayırma aracıyla yapabiliyor; sade bir arka planda çekilmiş videolarda sonuç belirgin şekilde daha temiz çıkıyor.</p>
+
+<h2>Reels için 10 Claude video efekti</h2>
+
+<ol class="steps">
+  <li><div><b>Arkadan geçen yazı (text-behind)</b><span>Kocaman bir başlık tam arkanızdan geçer, siz önde kalırsınız. Marka adı, ürün adı ya da semt adı için güçlü bir açılış.</span></div></li>
+  <li><div><b>Yörüngede dönen kartlar (orbit)</b><span>Ürün görselleri, eski videolarınızın kapakları ya da müşteri yorumları başınızın etrafında döner. Portföy göstermenin akılda kalan bir yolu.</span></div></li>
+  <li><div><b>Dergi kapağı geçişi (match-cut)</b><span>Görüntü bir anda bir dergi ya da gazete kapağına dönüşür, siz kapakta görünürsünüz. Bir başarıyı ya da haberi duyurmak için uygun.</span></div></li>
+  <li><div><b>Donan kare (freeze-frame)</b><span>Video durur, polaroid fotoğrafa dönüşür, üstüne el yazısıyla "tam bu an" notu düşer. Kritik bir cümleyi vurgular.</span></div></li>
+  <li><div><b>Cam bilgi kartları (glass-widgets)</b><span>Yanınızda yarı saydam kartlar belirir: izlenme, sipariş, doluluk oranı gibi rakamlar. Sonuç anlatan videolar için.</span></div></li>
+  <li><div><b>Spot ışığı (spotlight)</b><span>Arka plan kararır, sahnedeymişsiniz gibi üstünüze ışık düşer. Videonun en önemli cümlesine dikkat çeker.</span></div></li>
+  <li><div><b>Sayan rakamlar (numbers)</b><span>Rakam sıfırdan sayarak yükselir. "400.000 izlenme", "1.200 müşteri" gibi başarıları canlı gösterir.</span></div></li>
+  <li><div><b>Tiklenen liste (todo)</b><span>Konuştukça yanınızdaki listede maddeler tek tek işaretlenir. Adım adım anlatılan rehberler için birebir.</span></div></li>
+  <li><div><b>Sıralama tablosu (tier-list)</b><span>S-A-B-C tablosu kurulur, seçenekler sırayla yerine oturur. Yorumlarda tartışma başlatır, etkileşimi artırır.</span></div></li>
+  <li><div><b>Açılan düğmeler (toggles)</b><span>Telefon ayarlarındaki gibi düğmeler tek tek açılır: "İyi ışık ✓, iyi ses ✓, iyi kurgu ✓". Eğlenceli bir kapanış.</span></div></li>
+</ol>
+
+<h2>Neden efekt: Reels artık Instagram'ın merkezinde</h2>
+
+<p>Efektler süs değil, izleyiciyi videoda tutmanın aracı. Ve Reels, Instagram'ın en çok vakit geçirilen bölümlerinden biri hâline geldi. Sensor Tower verisine dayanan eMarketer analizine göre ABD'de Instagram'da geçirilen sürenin yüzde 46'sı Reels'te geçiyor; bu oran 2024'te yüzde 37'ydi. Aynı veriye göre 2025'in son çeyreğinde Instagram'daki reklamların yüzde 53'ü Reels'te gösterildi.</p>
+
+<figure class="chart">
+  <figcaption>Reels'in Instagram içindeki payı büyüyor</figcaption>
+  <p class="sub">Yüzde, ABD (süre) ve küresel reklam gösterimi</p>
+  <div class="rows">
+    <div class="row"><span class="l">Reklamların Reels payı, 2025 4. çeyrek</span><div class="tr"><div class="t"><i style="--w:100%"></i><b>%53</b></div></div></div>
+    <div class="row"><span class="l">Sürenin Reels payı, ABD 2025</span><div class="tr"><div class="t"><i style="--w:87%"></i><b>%46</b></div></div></div>
+    <div class="row"><span class="l">Sürenin Reels payı, ABD 2024</span><div class="tr"><div class="t"><i style="--w:70%"></i><b>%37</b></div></div></div>
+    <div class="row"><span class="l">Reklamların Reels payı, 2024 4. çeyrek</span><div class="tr"><div class="t"><i style="--w:66%"></i><b>%35</b></div></div></div>
+  </div>
+  <p class="src">Kaynak: <a href="https://www.emarketer.com/content/reels-carries-over-half-of-all-instagram-ad-load-monetization-could-lag" target="_blank" rel="noopener">eMarketer, Sensor Tower verisi</a>. Süre verisi ABD kullanıcılarına aittir.</p>
+</figure>
+
+<p>Yani Reels'te öne çıkmak artık yalnızca içerik üreticilerinin değil, reklam veren her işletmenin meselesi. Reklam tarafını <a href="/blog/instagram-reklam-butcesi-2026/">Instagram reklam bütçesi</a> yazımızda ayrıca ele aldık.</p>
+
+<h2>Hangi efekt hangi işletmeye uyar?</h2>
+
+<ul>
+  <li><strong>Restoran ve kafe:</strong> yörüngede dönen kartlarla menü, donan kare ile tabak servisi anı, sıralama tablosuyla "en çok sipariş edilen 4 tatlı".</li>
+  <li><strong>Klinik ve güzellik merkezi:</strong> tiklenen liste ile işlem adımları, cam kartlarla "kaç seans" bilgisi. Önce-sonra görsellerinde ilgili mevzuata dikkat edin.</li>
+  <li><strong>E-ticaret ve mağaza:</strong> sayan rakamlarla indirim ya da satış adedi, arkadan geçen yazıyla yeni ürün adı.</li>
+  <li><strong>Emlak ofisi:</strong> arkadan geçen semt adı, sıralama tablosuyla semt karşılaştırması, cam kartlarla metrekare ve oda bilgisi.</li>
+  <li><strong>Eğitim ve danışmanlık:</strong> spot ışığıyla ana fikir, dergi kapağı geçişiyle uzmanlık vurgusu.</li>
+</ul>
+
+<h2>Efektleri tek skill'de toplamak</h2>
+
+<p>Videonun sonunda gösterilen kart, 10 efektin tek bir <code>/effects</code> skill'inde toplandığını anlatıyor. Bu yaklaşımın avantajı tutarlılık: tüm efektler aynı renkleri, aynı yazı tipini, aynı hızı kullanıyor. Yeni bir efekt eklemek istediğinizde skill dosyasına bir tarif daha yazıyorsunuz.</p>
+
+<p>Efektleri ham videoya nasıl yerleştirdiğimizi, çekimden dışa aktarmaya kadar <a href="/blog/claude-ile-video-kurgusu-7-adim-2026/">Claude ile video kurgusu</a> yazımızda adım adım anlattık.</p>
+
+<h2>Efekt dozunu kaçırmayın</h2>
+
+<p>On efektin hepsini bir videoya koymak, izleyiciyi yorar. Bizim kullandığımız basit kurallar:</p>
+
+<ul>
+  <li>30 saniyelik bir videoda en fazla 2-3 efekt.</li>
+  <li>Efekt cümleyi desteklemeli: rakamdan bahsediyorsanız sayan rakam, sıralamadan bahsediyorsanız tablo.</li>
+  <li>Altyazı her zaman okunur kalmalı; efekt yazının üstüne binmemeli.</li>
+  <li>Yazılar telefon ekranının güvenli alanında kalmalı, Instagram arayüzünün altında kaybolmamalı.</li>
+</ul>
+
+<p>Move to Social olarak <a href="/#hizmetler">Reels çekimi ve içerik üretimi hizmetimizde</a> bu efektleri markanızın renkleri ve diliyle hazırlıyoruz. Siz çekime odaklanın ya da çekimi de bize bırakın; kurgu, efekt ve paylaşım planı bizden.</p>

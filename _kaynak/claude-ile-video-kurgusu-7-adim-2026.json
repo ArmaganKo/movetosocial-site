@@ -1,0 +1,67 @@
+{
+  "slug": "claude-ile-video-kurgusu-7-adim-2026",
+  "baslik": "Claude ile Video Kurgusu: Ham Videodan Reels'e 7 Adım 2026",
+  "aciklama": "Claude ile video kurgusu 7 adımda: tek seferde çekim, döküm, iskelet, sesli komutlar, önizleme ve dışa aktarma. \"Videomu nasıl kurguladı\" formatı bu yazıda.",
+  "ozet": "Claude ile video kurgusunda zaman çizelgesiyle uğraşmazsınız; ne istediğinizi düz Türkçe söylersiniz, Claude Code bunu Remotion ile video koduna çevirip MP4 üretir. Instagram'daki \"Claude videomu nasıl kurguladı?\" formatında ham video altta, kurgulu hâli üstte durur ve söylenen her komut ekranda gerçekleşir. Bu yazıda çekimden dışa aktarmaya 7 adımı, örnek komutları ve çekim ipuçlarını anlatıyoruz.",
+  "kart": "\"Claude videomu nasıl kurguladı?\" formatı: ham videodan paylaşıma hazır Reels'e 7 adım, örnek komutlar ve çekim ipuçları.",
+  "kategori": "Yapay Zekâ",
+  "etiketler": [
+    "Claude",
+    "video kurgu",
+    "Reels",
+    "yapay zekâ",
+    "içerik üretimi",
+    "Instagram Reels",
+    "video çekimi"
+  ],
+  "tarih": "2026-11-26",
+  "kapak": {
+    "beyaz": "Claude ile Video",
+    "yesil": "Kurgusu: 7 Adım"
+  },
+  "alt": [
+    "Claude ile video kurgusu: ham videodan Reels'e 7 adım 2026 blog kapağı, Move to Social logolu yeşil tasarım",
+    "Yapay zekâ ile konuşarak Reels kurgulama rehberi kapak görseli"
+  ],
+  "ilgili": [
+    "claude-skill-nedir-reels-6-komut-2026",
+    "claude-ile-video-efekti-10-efekt-2026",
+    "yapay-zeka-ile-video-duzenleme-6-komut-2026"
+  ],
+  "cta": {
+    "baslik": "Sosyal medya hizmeti almak ister misiniz?",
+    "metin": "Çekim planından Claude ile kurguya, paylaşımdan reklama kadar Reels'lerinizi biz yürütelim. İhtiyacınızı WhatsApp'tan yazın, teklifimizle dönelim."
+  },
+  "sss": [
+    {
+      "s": "Claude videoyu gerçekten konuşarak mı kurguluyor?",
+      "c": "Claude'a komutları yazarak ya da sesli not olarak verirsiniz; Claude bunları video koduna çevirip videoyu üretir. Videodaki komutlar kurgunun talimatı olarak kullanılır ve söylendikleri saniyede ekrana yansıtılır."
+    },
+    {
+      "s": "Claude ile bir Reels'i kurgulamak ne kadar sürer?",
+      "c": "İlk videoda format kurulduğu için süre daha uzundur. Format bir skill olarak kaydedildikten sonra sonraki videolarda iş büyük ölçüde komut vermek ve önizleyip düzeltmekten ibaret kalır."
+    },
+    {
+      "s": "Bu yöntem için hangi çekim ekipmanı gerekir?",
+      "c": "İyi bir telefon kamerası, yaka mikrofonu ve yüzü önden aydınlatan bir ışık yeterlidir. Kurgu kötü ışığı ya da kötü sesi kurtaramaz; bu yüzden çekime özen göstermek gerekir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "ad": "Anthropic — Claude Code belgeleri: Skills",
+      "url": "https://code.claude.com/docs/en/skills"
+    },
+    {
+      "ad": "Remotion — Agent Skills belgeleri",
+      "url": "https://www.remotion.dev/docs/ai/skills"
+    },
+    {
+      "ad": "Social Media Today — Meta 2026 3. çeyrek platform verileri",
+      "url": "https://socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807"
+    },
+    {
+      "ad": "DataReportal — Digital 2027: Turkey (5 Kasım 2026)",
+      "url": "https://datareportal.com/reports/digital-2027-turkey"
+    }
+  ]
+}
