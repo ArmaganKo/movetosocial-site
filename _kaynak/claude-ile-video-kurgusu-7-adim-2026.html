@@ -1,6 +1,6 @@
 <p>Ekranın altında ham video, üstünde aynı videonun kurgulanmış hâli. Konuşan kişi arada bir "Claude, ismimi büyük yaz" ya da "şimdi siyah-beyaz yap, yok beğenmedim, geri al" diyor ve üstteki video anında değişiyor. Üstte de sabit bir başlık var: "Claude videomu nasıl kurguladı?" Bu yazıda bu formatı ve arkasındaki yöntemi, yani <strong>Claude ile video kurgusu</strong> yapmayı, ham videodan paylaşıma 7 adımda anlatıyoruz.</p>
 
-<div class="note"><b>Instagram'dan mı geldiniz?</b> Videodaki kurgunun adım adım nasıl yapıldığı aşağıda. Kurgu, çekim ve paylaşımla uğraşmak istemiyorsanız <a class="js-wa" href="/#iletisim">WhatsApp'tan bize yazın</a>; sosyal medya hizmeti için size özel teklif hazırlayalım.</div>
+<div class="note"><b>Instagram'dan mı geldiniz?</b> Videoda bahsettiğimiz skill dosyası burada, ücretsiz indirebilirsiniz. Kurulumu <a href="#indir">aşağıda</a> anlattık. Reels'lerinizi bizim hazırlamamızı isterseniz <a class="js-wa" href="/#iletisim">WhatsApp'tan yazın</a>, sosyal medya hizmeti için teklifimizi iletelim.<br><a class="btn b-main" href="/indir/ham-kurgu-skill.zip" download style="margin-top:14px">Ham kurgu skill'ini indir</a></div>
 
 <h2>Claude ile video kurgusu ne demek?</h2>
 
@@ -58,6 +58,20 @@
   <li><strong>Arka plan:</strong> Yazının arkadan geçeceği efektler için sade bir arka plan seçin.</li>
   <li><strong>Süre:</strong> 60-90 saniye bu format için uygun. Komutlar arasında 4-6 saniye bırakın ki izleyici değişikliği görebilsin.</li>
 </ul>
+
+<h2 id="indir">Claude ile video kurgusu skill'ini indirin</h2>
+
+<p>"Videomu nasıl kurguladı?" formatını kuran <code>/ham-kurgu</code> skill'ini paylaşıyoruz: üstte kurgulu, altta ham video, sesli komutların söylendiği saniyede ekranda gerçekleşmesi ve komutların efektlere eşlenmesi dosyada hazır.</p>
+
+<p><a class="btn b-main" href="/indir/ham-kurgu-skill.zip" download>Ham kurgu skill'ini indir</a></p>
+
+<ol class="steps">
+  <li><div><b>Claude Code'da</b><span>ZIP'i açın, klasörü bilgisayarınızdaki <code>~/.claude/skills/</code> klasörüne (tüm projeler için) ya da projenizin <code>.claude/skills/</code> klasörüne kopyalayın. Claude Code'da <code>/ham-kurgu</code> yazarak çağırın.</span></div></li>
+  <li><div><b>Claude.ai'de</b><span>Settings &gt; Capabilities altında kod çalıştırmayı (Code execution / Create and edit files) açın. Sonra Customize &gt; Skills &gt; "+" &gt; Create skill &gt; Upload a skill adımlarıyla ZIP dosyasını yükleyin.</span></div></li>
+  <li><div><b>İlk çalıştırmada markanızı tanıtın</b><span>Skill ilk kullanımda renklerinizi, yazı tipinizi, logonuzu, hesap adınızı ve kapanış cümlenizi sorar ve <code>marka.md</code> dosyasına kaydeder. Sonraki videolarda tekrar sormaz.</span></div></li>
+</ol>
+
+<p>Video üretimi Remotion ile yapıldığı için skill'ler en iyi Claude Code'da çalışır; Claude.ai'de skill yüklenir ama video dışa aktarma için bilgisayarınızda Node.js ve Remotion gerekir. Remotion'ı ticari amaçla kullanacaksanız lisans koşullarını Remotion'ın sitesinden kontrol edin.</p>
 
 <h2>Ne zaman kendiniz, ne zaman bir ekiple?</h2>
 

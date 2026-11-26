@@ -43,6 +43,10 @@
     {
       "s": "Claude skill her işletme için uygun mu?",
       "c": "Düzenli video üreten her işletme için uygundur: restoran, klinik, mağaza, otel, emlak ofisi, eğitim kurumu. Skill'e kendi renklerinizi, yazı tipinizi ve kapanış cümlenizi yazdığınızda her video markanıza uygun çıkar."
+    },
+    {
+      "s": "Skill dosyası ücretsiz mi, nasıl kurulur?",
+      "c": "Evet, ücretsiz indirebilirsiniz. Claude Code'da klasörü ~/.claude/skills/ içine kopyalamanız yeterli. Claude.ai'de ise kod çalıştırmayı açıp Customize > Skills bölümünden ZIP dosyasını yüklersiniz."
     }
   ],
   "kaynaklar": [
@@ -69,6 +73,10 @@
     {
       "ad": "DataReportal — Digital 2027: Turkey (5 Kasım 2026)",
       "url": "https://datareportal.com/reports/digital-2027-turkey"
+    },
+    {
+      "ad": "Claude Yardım Merkezi — Use skills in Claude",
+      "url": "https://support.claude.com/en/articles/12512180-use-skills-in-claude"
     }
   ]
 }

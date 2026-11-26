@@ -43,6 +43,10 @@
     {
       "s": "Yapay zeka ile düzenlenen videolarda müzik kullanmak serbest mi?",
       "c": "Hayır. Müziğin, haritanın, logoların ve ekran görüntülerinin kullanım hakkının sizde olması gerekir. Telifsiz müzik kütüphaneleri ya da platformların kendi müzik arşivleri tercih edilmelidir."
+    },
+    {
+      "s": "Skill dosyası ücretsiz mi, nasıl kurulur?",
+      "c": "Evet, ücretsiz indirebilirsiniz. Claude Code'da klasörü ~/.claude/skills/ içine kopyalamanız yeterli. Claude.ai'de ise kod çalıştırmayı açıp Customize > Skills bölümünden ZIP dosyasını yüklersiniz."
     }
   ],
   "kaynaklar": [
@@ -61,6 +65,10 @@
     {
       "ad": "Remotion — Agent Skills belgeleri",
       "url": "https://www.remotion.dev/docs/ai/skills"
+    },
+    {
+      "ad": "Claude Yardım Merkezi — Use skills in Claude",
+      "url": "https://support.claude.com/en/articles/12512180-use-skills-in-claude"
     }
   ]
 }

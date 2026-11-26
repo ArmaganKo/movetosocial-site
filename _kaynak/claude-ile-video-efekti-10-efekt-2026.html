@@ -1,6 +1,6 @@
 <p>Bir Reels'te yazının konuşan kişinin arkasından geçtiğini, ekranın bir an dergi kapağına dönüştüğünü ya da rakamların sıfırdan sayarak büyüdüğünü görmüşsünüzdür. Bu efektler eskiden ancak kurgu programlarında saatler harcanarak yapılıyordu. Bugün <strong>Claude ile video efekti</strong> eklemek, bir komut yazmak kadar kısa sürebiliyor. Bu yazıda Instagram'da çok izlenen "10 efekt" videosundaki efektleri tek tek anlatıyor, hangisinin hangi işletmeye uyduğunu ve nasıl kurulduğunu gösteriyoruz.</p>
 
-<div class="note"><b>Instagram'dan mı geldiniz?</b> Videodaki 10 efektin nasıl yapıldığı aşağıda. Efektlerle uğraşmadan Reels'lerinizi bizim hazırlamamızı isterseniz <a class="js-wa" href="/#iletisim">WhatsApp'tan yazın</a>, sosyal medya hizmeti için teklifimizi iletelim.</div>
+<div class="note"><b>Instagram'dan mı geldiniz?</b> Videoda bahsettiğimiz skill dosyası burada, ücretsiz indirebilirsiniz. Kurulumu <a href="#indir">aşağıda</a> anlattık. Reels'lerinizi bizim hazırlamamızı isterseniz <a class="js-wa" href="/#iletisim">WhatsApp'tan yazın</a>, sosyal medya hizmeti için teklifimizi iletelim.<br><a class="btn b-main" href="/indir/effects-skill.zip" download style="margin-top:14px">Effects skill'ini indir (10 efekt)</a></div>
 
 <h2>Claude ile video efekti nasıl yapılıyor?</h2>
 
@@ -58,6 +58,20 @@
 <p>Videonun sonunda gösterilen kart, 10 efektin tek bir <code>/effects</code> skill'inde toplandığını anlatıyor. Bu yaklaşımın avantajı tutarlılık: tüm efektler aynı renkleri, aynı yazı tipini, aynı hızı kullanıyor. Yeni bir efekt eklemek istediğinizde skill dosyasına bir tarif daha yazıyorsunuz.</p>
 
 <p>Efektleri ham videoya nasıl yerleştirdiğimizi, çekimden dışa aktarmaya kadar <a href="/blog/claude-ile-video-kurgusu-7-adim-2026/">Claude ile video kurgusu</a> yazımızda adım adım anlattık.</p>
+
+<h2 id="indir">Claude video efekti skill'ini indirin</h2>
+
+<p>Yazıdaki 10 efektin tarifini içeren <code>/effects</code> skill'ini ücretsiz paylaşıyoruz. Her efektin nasıl kurulacağı, ne kadar süreceği ve dikkat edilecek noktalar dosyada yazılı.</p>
+
+<p><a class="btn b-main" href="/indir/effects-skill.zip" download>Effects skill'ini indir (10 efekt)</a></p>
+
+<ol class="steps">
+  <li><div><b>Claude Code'da</b><span>ZIP'i açın, klasörü bilgisayarınızdaki <code>~/.claude/skills/</code> klasörüne (tüm projeler için) ya da projenizin <code>.claude/skills/</code> klasörüne kopyalayın. Claude Code'da <code>/effects text-behind</code> yazarak çağırın.</span></div></li>
+  <li><div><b>Claude.ai'de</b><span>Settings &gt; Capabilities altında kod çalıştırmayı (Code execution / Create and edit files) açın. Sonra Customize &gt; Skills &gt; "+" &gt; Create skill &gt; Upload a skill adımlarıyla ZIP dosyasını yükleyin.</span></div></li>
+  <li><div><b>İlk çalıştırmada markanızı tanıtın</b><span>Skill ilk kullanımda renklerinizi, yazı tipinizi, logonuzu, hesap adınızı ve kapanış cümlenizi sorar ve <code>marka.md</code> dosyasına kaydeder. Sonraki videolarda tekrar sormaz.</span></div></li>
+</ol>
+
+<p>Video üretimi Remotion ile yapıldığı için skill'ler en iyi Claude Code'da çalışır; Claude.ai'de skill yüklenir ama video dışa aktarma için bilgisayarınızda Node.js ve Remotion gerekir. Remotion'ı ticari amaçla kullanacaksanız lisans koşullarını Remotion'ın sitesinden kontrol edin.</p>
 
 <h2>Efekt dozunu kaçırmayın</h2>
 

@@ -1,6 +1,6 @@
 <p>Instagram'da son aylarda sıkça görülen bir video formatı var: ekranın bir yarısında ham video duruyor, bir komut kutusuna <code>/business-reels</code> gibi kısa bir kelime yazılıyor ve diğer yarıda kurgulanmış, altyazılı, efektli bir Reels beliriyor. Videoda arka arkaya "bunu yaz, bunu al" deniyor. Bu formatın arkasındaki şey bir <strong>Claude skill</strong>. Bu yazıda Claude skill'in ne olduğunu, videodaki 6 komutun nasıl çalıştığını ve kendi işletmeniz için nasıl kurulacağını anlatıyoruz.</p>
 
-<div class="note"><b>Instagram'dan mı geldiniz?</b> Videodaki "yaz, al" kurgusunun nasıl yapıldığı aşağıda. Bu işle uğraşmadan Reels'lerinizin bu kalitede çıkmasını istiyorsanız <a class="js-wa" href="/#iletisim">WhatsApp'tan bize yazın</a>, sosyal medya hizmeti için size özel teklif hazırlayalım.</div>
+<div class="note"><b>Instagram'dan mı geldiniz?</b> Videoda bahsettiğimiz skill dosyası burada, ücretsiz indirebilirsiniz. Kurulumu <a href="#indir">aşağıda</a> anlattık. Reels'lerinizi bizim hazırlamamızı isterseniz <a class="js-wa" href="/#iletisim">WhatsApp'tan yazın</a>, sosyal medya hizmeti için teklifimizi iletelim.<br><a class="btn b-main" href="/indir/reels-skill-paketi.zip" download style="margin-top:14px">Reels skill paketini indir (6 skill)</a></div>
 
 <h2>Claude skill nedir?</h2>
 
@@ -71,6 +71,20 @@
   <li><strong>Teknik altyapı gerekir.</strong> Claude Code, Node.js ve bir terminal kullanmanız gerekiyor. Remotion'ı ticari amaçla kullanacaksanız lisans koşullarını Remotion'ın kendi sitesinden kontrol edin.</li>
   <li><strong>Strateji yine sizde.</strong> Skill nasıl kurgulanacağını bilir; neyin anlatılacağını, hangi kitleye konuşulacağını değil.</li>
 </ul>
+
+<h2 id="indir">Claude skill paketini indirin ve kurun</h2>
+
+<p>Yazıda anlattığımız 6 skill'i hazır dosya olarak paylaşıyoruz. Paketin tamamı Claude Code için; Claude.ai'ye yüklemek için her skill'i ayrı ZIP olarak da indirebilirsiniz.</p>
+
+<p><a class="btn b-main" href="/indir/reels-skill-paketi.zip" download>Reels skill paketini indir (6 skill)</a></p>
+<p>Claude.ai için tek tek: <a href="/indir/reels/isletme-reels.zip" download>isletme-reels</a>, <a href="/indir/reels/siralama-reels.zip" download>siralama-reels</a>, <a href="/indir/reels/ekran-reels.zip" download>ekran-reels</a>, <a href="/indir/reels/kesit-grid.zip" download>kesit-grid</a>, <a href="/indir/reels/aciklama-panel.zip" download>aciklama-panel</a>, <a href="/indir/reels/kisisel-reels.zip" download>kisisel-reels</a>.</p>
+<ol class="steps">
+  <li><div><b>Claude Code'da</b><span>ZIP'i açın, içindeki klasörleri bilgisayarınızdaki <code>~/.claude/skills/</code> klasörüne (tüm projeler için) ya da projenizin <code>.claude/skills/</code> klasörüne kopyalayın. Claude Code'da <code>/isletme-reels</code> yazarak çağırın.</span></div></li>
+  <li><div><b>Claude.ai'de</b><span>Settings &gt; Capabilities altında kod çalıştırmayı (Code execution / Create and edit files) açın. Sonra Customize &gt; Skills &gt; "+" &gt; Create skill &gt; Upload a skill adımlarıyla ZIP dosyasını yükleyin.</span></div></li>
+  <li><div><b>İlk çalıştırmada markanızı tanıtın</b><span>Skill ilk kullanımda renklerinizi, yazı tipinizi, logonuzu, hesap adınızı ve kapanış cümlenizi sorar ve <code>marka.md</code> dosyasına kaydeder. Sonraki videolarda tekrar sormaz.</span></div></li>
+</ol>
+
+<p>Video üretimi Remotion ile yapıldığı için skill'ler en iyi Claude Code'da çalışır; Claude.ai'de skill yüklenir ama video dışa aktarma için bilgisayarınızda Node.js ve Remotion gerekir. Remotion'ı ticari amaçla kullanacaksanız lisans koşullarını Remotion'ın sitesinden kontrol edin.</p>
 
 <h2>Kendiniz mi kurmalı, ajansa mı vermeli?</h2>
 

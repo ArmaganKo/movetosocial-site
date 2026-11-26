@@ -44,6 +44,10 @@
     {
       "s": "Bu yöntem için hangi çekim ekipmanı gerekir?",
       "c": "İyi bir telefon kamerası, yaka mikrofonu ve yüzü önden aydınlatan bir ışık yeterlidir. Kurgu kötü ışığı ya da kötü sesi kurtaramaz; bu yüzden çekime özen göstermek gerekir."
+    },
+    {
+      "s": "Skill dosyası ücretsiz mi, nasıl kurulur?",
+      "c": "Evet, ücretsiz indirebilirsiniz. Claude Code'da klasörü ~/.claude/skills/ içine kopyalamanız yeterli. Claude.ai'de ise kod çalıştırmayı açıp Customize > Skills bölümünden ZIP dosyasını yüklersiniz."
     }
   ],
   "kaynaklar": [
@@ -62,6 +66,10 @@
     {
       "ad": "DataReportal — Digital 2027: Turkey (5 Kasım 2026)",
       "url": "https://datareportal.com/reports/digital-2027-turkey"
+    },
+    {
+      "ad": "Claude Yardım Merkezi — Use skills in Claude",
+      "url": "https://support.claude.com/en/articles/12512180-use-skills-in-claude"
     }
   ]
 }
