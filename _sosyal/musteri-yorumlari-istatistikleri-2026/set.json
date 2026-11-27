@@ -1,0 +1,17 @@
+{
+  "slug": "musteri-yorumlari-istatistikleri-2026",
+  "slaytlar": [
+    {"tip": "kapak", "etiket": "Veri", "beyaz": "Müşteri yorumları:", "yesil": "%89 cevap bekliyor", "alt": "Müşteriler yorumlarda neye bakıyor?"},
+    {"tip": "rakam", "rakam": "%85", "baslik": "olumlu yorumla seçiyor", "metin": "Olumlu yorum okuyan tüketicilerin o işletmeyi kullanma ihtimali artıyor.", "kaynak": "BrightLocal, ABD, Şubat 2026"},
+    {"tip": "rakam", "rakam": "%74", "baslik": "son 3 aya bakıyor", "metin": "Yalnızca son üç ayda yazılmış yorumları önemsiyor. Eski yorum, yorum sayılmıyor.", "kaynak": "BrightLocal, ABD, Şubat 2026"},
+    {"tip": "rakam", "rakam": "%47", "baslik": "20 yorumun altına gelmiyor", "metin": "20'den az yorumu olan işletmeyi tercih etmiyor. %31'i ise 4,5 yıldız altını seçmiyor.", "kaynak": "BrightLocal, ABD, Şubat 2026"},
+    {"tip": "rakam", "rakam": "%89", "baslik": "cevap bekliyor", "metin": "İşletme sahibinin yorumlara cevap vermesini bekliyor. Kalıp cevaplar ise %50'sini soğutuyor.", "kaynak": "BrightLocal, ABD, Şubat 2026"},
+    {"tip": "liste", "baslik": "Yorum yönetimi: 5 adım", "maddeler": ["Yorum istemeyi rutine çevirin", "Her yoruma cevap verin", "Kalıp cevaptan kaçının", "Yorumları içeriğe dönüştürün", "Puanı ve tarihi takip edin"]},
+    {"tip": "cta", "baslik": "Tüm rakamlar blogumuzda", "metin": "Kaynakları ve sektör önerileriyle:"}
+  ],
+  "instagram": {
+    "aciklama": "Müşteriniz sizi aramadan önce yorumlarınızı okuyor. ⭐\n\nBrightLocal'ın ABD'de 1.002 yetişkinle yaptığı 2026 araştırmasına göre tüketicilerin %85'i olumlu yorum okuyunca o işletmeyi seçmeye daha yakın. %74'ü yalnızca son 3 ayın yorumlarına bakıyor, %89'u ise işletmenin cevap vermesini bekliyor.\n\nKaydırın, müşterilerin yorumlarda neye baktığını ve 5 adımlık yorum planını görün. Kaynaklarıyla yazının tamamı blogumuzda: movetosocial.com.tr/blog\n\nKaydedin, yorumlara cevap yazarken lazım olacak.",
+    "hashtag": ["#müşteriyorumları", "#itibaryönetimi", "#dijitalpazarlama", "#küçükişletme", "#movetosocial"]
+  },
+  "linkedin": "Müşteri artık işletmenizi reklamınızdan önce yorumlarınızdan tanıyor.\n\nBrightLocal'ın ABD'de 1.002 yetişkinle Şubat 2026'da yaptığı Local Consumer Review Survey, her sektörden yerel işletme için net bir tablo çiziyor:\n\n• %85'i olumlu yorum okuduktan sonra o işletmeyi kullanmaya daha yakın.\n• %74'ü yalnızca son üç ayda yazılmış yorumları önemsiyor.\n• %47'si 20'den az yorumu olan işletmeyi tercih etmiyor; %31'i 4,5 yıldızın altını seçmiyor.\n• %89'u işletme sahibinin yorumlara cevap vermesini bekliyor; kalıp cevaplar ise %50'sini soğutuyor.\n• %24'ü olumlu yorumdan sonra işletmenin sosyal medya hesaplarına bakıyor.\n\nÇıkarım: Yorum toplamak bir kampanya değil, aylık bir rutin. Her yoruma kişisel cevap vermek ve yorumları sosyal medya içeriğine dönüştürmek, güveni satışa çeviren en ucuz yol.\n\nRakamların tamamı, sektör önerileri ve kaynaklar:\n{link}\n\n#itibaryönetimi #dijitalpazarlama #veri"
+}
